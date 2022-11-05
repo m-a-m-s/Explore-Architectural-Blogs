@@ -1,13 +1,16 @@
-# Author: Kirsten Gericke
-# Thesis topic: Exploring AK in blogs
 # August 2022
-# chi-squared tests: Task vs Type, code-co-occurence, AK vs Type, AK vs Topic
 
 from scipy.stats import chi2_contingency
 import numpy as np
 
+# To run this file:
+# 1. de-comment the data you choose to test
+# 2. copy and paste the data matrix to line 174
+# 3. change the total_sum amount on line 206 depending on which data you are testing
 
-# type v topic
+########################################
+# Data for type vs topic:
+########################################
 
 # data = np.array(
     # [
@@ -21,7 +24,7 @@ import numpy as np
     # ])
 
 ########################################
-# Data for LDA topics vs Qualitative topics: 
+# Data for LDA topics vs Qualitative topics:
 ########################################
 
 data = np.array(
@@ -36,7 +39,7 @@ data = np.array(
    ] )
 
 ########################################
-# Data for LDA topics vs Type: 
+# Data for LDA topics vs Type:
 ########################################
 
 # data = np.array(
@@ -51,7 +54,7 @@ data = np.array(
    # ] )
 
 ########################################
-# Data for Qualitative topics vs Type: 
+# Data for Qualitative topics vs Type:
 ########################################
 
 # data = np.array(
@@ -64,7 +67,7 @@ data = np.array(
    # ] )
 
 ########################################
-# Data for Task vs Type: 
+# Data for Task vs Type:
 ########################################
 
 #data = np.array(
@@ -77,7 +80,6 @@ data = np.array(
 #    [27, 27, 18, 26, 12, 10],
 #    [ 3, 0 , 0 , 0 ,  0, 0 ]
 #    ] )
-
 
 ########################################
 # Data for Task vs Type: 3 steps in ADD model
@@ -94,10 +96,8 @@ data = np.array(
 #      [ 3,	0,	0]
 #    ] )
 
-
-
 ########################################
-# code-co-occurence values
+# Code-co-occurence values
 ########################################
 
 #data = np.array(
@@ -160,7 +160,7 @@ data = np.array(
 #    ] )   
 
 ########################################
-# Code
+# Code:
 ########################################
 
 answer = data
@@ -180,14 +180,18 @@ for row in range(0,7,1):
         [6, 36, 20, 39, 14],
         [ 0, 2 , 7 , 6 ,  1 ]
         ] )
-        # get the 4 values for the contingency table
+        
+        # get the 4 values for the contingency table (2x2 matrix):
+        # [current, right],
+        # [bottom, bottom_right]
+        
         current = data[row,col]
         row_sum = sum(data[row])
         col_sum = sum(data[:,col])
         right = row_sum-current
         bottom = col_sum-current
         
-        # total_sum values: 
+        # total_sum values change depending on data used:
         # type vs task total = 507
         # tye vs task steps = 507
         # code co-occurence total = 1392
@@ -201,8 +205,6 @@ for row in range(0,7,1):
         total_sum = 581
         bottom_right = total_sum-row_sum-col_sum+current
         
-        #aprint(bottom_right)
-        
         # create table for each co-occurence
         contingency_table = np.array(
             [
@@ -213,8 +215,10 @@ for row in range(0,7,1):
         
         # create table of all co-occurences
         answer[row,col] = stat
-        print(contingency_table)
-        print(np.round(stat,2))
         
+        # print each contingency table and chi2 stat for each data item
+        print(contingency_table)
+        print(np.round(stat,2)) # rounded to two decimal places
 
-print(answer) # np.round(answer) does not work 
+# final chi2 matrix:
+print(answer) # rounded to nearest whole number
