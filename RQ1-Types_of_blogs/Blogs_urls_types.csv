@@ -1,0 +1,719 @@
+url,Average Relevance,Type of Blog,Memo
+https://www.sitepoint.com/php-style-json-parsing-in-java-with-jsoniter/,4,Community blog,Multiple authors. Multiple topics. 
+https://anubala.medium.com/components-of-microservices-architecture-for-beginners-7b2ebc4e45c6,2,Community blog,Website company Medium provides community blogs.
+https://arunrajeevan.medium.com/fundamentals-of-rest-api-design-d9c425c1b0f6,4,Community blog,Website company Medium provides community blogs.
+https://builtin.com/big-data/big-data-companies-roundup,3,Community blog,?About: our story? page states ?a social network and blogging platform?
+https://builtin.com/big-data/big-data-platform,3,Community blog,Same as above
+https://chatbotsjournal.com/why-knowledge-bases-and-chatbots-are-the-future-of-tech-support-790e238295cc,5,Community blog,Website company Medium provides community blogs.
+https://chatbotslife.com/best-nlp-chatbot-platform-d3d80f441078,4,Community blog,Website company Medium provides community blogs.
+https://chatbotslife.com/chatbots-the-rise-of-conversational-ui-8a59078e2f95,4,Community blog,Website company Medium provides community blogs.
+https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c,3,Community blog,Website company Medium provides community blogs.
+https://chatbotsmagazine.com/using-slack-as-a-message-queue-dd5a13bfa1c0,4,Community blog,Website company Medium provides community blogs.
+https://cobusgreyling.medium.com/chatbots-when-to-use-nlp-and-when-to-use-nlu-8eba17c0a4bc,4,Community blog,Website company Medium provides community blogs.
+https://cobusgreyling.medium.com/read-this-before-converting-your-chatbot-to-a-voicebot-447f8fc3a325,2,Community blog,Website company Medium provides community blogs.
+https://codeburst.io/spring-boot-rest-microservices-best-practices-2a6e50797115,4,Community blog,Website company Medium provides community blogs.
+https://codecondo.com/8-tools-for-log-monitoring-and-processing-big-data/,4,Community blog,"?About us"" page states ""community for developers? and ?inform our readers with ? ?news and technology?."
+https://danielbryantuk.medium.com/microservice-testing-coupling-and-cohesion-all-the-way-down-b84dacf8cff0,3.666666667,Community blog,Website company Medium provides community blogs.
+https://dearsikandarkhan.medium.com/microservices-architecture-for-e-commerce-f8b49270e72f,3.5,Community blog,Website company Medium provides community blogs.
+https://dev.to/azaleamollis/solid-design-principles-building-stable-and-flexible-systems--2ph7,4,Community blog,Multiple autors. 
+https://dev.to/dianamaltseva8/rabbitmq-for-building-mobile-chats--messengers-sharing-experience-358,3,Community blog,Same as above
+https://dev.to/djoleb/apache-camel-3-using-rabbitmq-2250,2.75,Community blog,Same as above
+https://dev.to/inspector/laravel-real-time-monitoring-using-inspector-part-1-get-started-2bb3,2,Community blog,Same as above
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,3.5,Community blog,"Bottom of page states ""A constructive and inclusive social network for software ?developers.?. Click logo, page states ?a place where coders share,? stay up-to-date and grow their careers.?"
+https://devopedia.org/cohesion-vs-coupling,5,Community blog,"Bottom of page states ""Devopedia is an open community platformfor developers ?by developers to explain technology??"
+https://dzone.com/articles/10-best-practices-for-microservice-architectures,1.5,Community blog,"Bottom of page ?About DZone? states ?DZone serves technology professionals? with the knowledge, tools, and strategies they need to build the future.?"
+https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/2018-etl-tools-comparison-1,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design,2.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/a-look-at-rest-api-design-patterns,3.666666667,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/all-you-need-to-know-about-asyncronous-messaging-u,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/an-overview-of-kafka-distributed-message-system,3.25,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/apache-camel-deployment-modes,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/apache-camel-the-powerful-client-for-salesforce-da,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/apache-flume-and-data-pipelines,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/apache-kafka-vs-integration-middleware-mq-etl-esb,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/asynchronous-java-se-web,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/asynchronous-messaging-rabbitmq-introduction,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/benchmarking-message-queue-latency,4.333333333,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/big-data-ingestion-flume-kafka-and-nifi,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock,3.2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/communicating-between-microservices,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/concise-comparison-rabbitmq,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/data-consistency-in-microservices-architecture,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/dealing-with-json-in-a-new-way,3.846153846,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/design-patterns-for-microservice-communication,3.6,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/design-patterns-for-microservices,3.9375,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/design-patterns-for-microservices-1,5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/develop-a-java-app-with-kafka,5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/evaluating-message-brokers-kafka-vs-kinesis-vs-sqs,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/exploring-message-brokers,3.884615385,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/exploring-message-brokers?source=post_page-----7d1a857af7b5----------------------,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/frameworks-and-products-big-data-log-analytics-log,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/how-to-make-microservices-communicate,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/how-to-parse-json-data-from-a-rest-api-using-simpl,3.25,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/how-to-practically-implement-microservices-infrast,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/implementing-micro-services-architecture-for-build,4.125,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/introduction-to-message-brokers-part-1-apache-kafk,3.333333333,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/introduction-to-message-brokers-part-2-activemq-vs,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/java-microservices-code-examples-tutorials-and-more,3.25,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/jsontuples-json-parser-and-comparator-in-java,2.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/kafka-queuing-kafka-as-a-messaging-system,2.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservice-architecture-and-design-patterns-for,4.333333333,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservice-architecture-best-practices-messaging,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservice-testing-coupling-and-cohesion-all-the,2.333333333,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservices-architecture-what-when-how,2.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservices-design-principles,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/microservices-in-practice-1,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/migrating-jms-amqp-rabbitmq,2.75,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/open-source-etl-tools-comparison,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/open-source-integration-apache,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/patterns-for-microservices-sync-vs-async,3.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/performance-tuning-ideas-for-apache-camel,3.6,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/processing-large-messages-with-apache-kafka,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/rest-api-best-practices-with-design-examples-from,4.5,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/stans-robot-shop-a-sample-microservice-application,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/top-5-enterprise-etl-tools,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/what-is-data-streaming,2,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/what-is-web-application-architecture,4,Community blog,Website ZDone is a Community blog.
+https://dzone.com/articles/when-use-apache-camel,2.714285714,Community blog,Website ZDone is a Community blog.
+https://dzone.com/refcardz/enterprise-integration,3,Community blog,Website ZDone is a Community blog.
+https://dzone.com/refcardz/patterns-modular-architecture,3.333333333,Community blog,Website ZDone is a Community blog.
+https://engineering.salesforce.com/building-a-fault-tolerant-data-pipeline-for-chatbots-47d74bc31f5b,4,Community blog,Website company Medium provides community blogs.
+https://engineering.salesforce.com/building-a-scalable-event-pipeline-with-heroku-and-salesforce-2549cb20ce06,2.5,Community blog,Website company Medium provides community blogs.
+https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011,4,Community blog,"Bottom of page about page states ""Hacker Noon˜is a small, distributed team of 14-ish people* ?passionate about making the internet a better place by publishing free high quality tech stories ?"
+https://hackernoon.com/connecting-rabbitmq-with-node-js-05953yh3,3,Community blog,Same as above
+https://hackernoon.com/introduction-to-message-brokers-part-1-apache-kafka-vs-rabbitmq-8fd67bf68566,4.15,Community blog,Same as above
+https://hackernoon.com/introduction-to-message-brokers-part-2-activemq-vs-redis-pub-sub-dd9e173e27a5,4,Community blog,Same as above
+https://hackernoon.com/scraping-yahoo-finance-data-using-python-ayu3zyl,3,Community blog,Same as above
+https://heartbeat.fritz.ai/building-a-conversational-chatbot-with-nltk-and-tensorflow-part-1-f452ce1756e5,2,Community blog,Website company Medium provides Community blogs.
+https://hub.packtpub.com/common-big-data-design-patterns/,4,Community blog,"About us states ""Technology news, analysis, and tutorials from Packt."""
+https://hub.packtpub.com/creating-a-simple-modular-application-in-java-11-tutorial/,3,Community blog,Same as above
+https://hub.packtpub.com/what-apache-camel/,4,Community blog,Same as above
+https://itnext.io/can-json-parse-be-performance-improvement-ba1069951839,2.5,Community blog,Website company Medium provides Community blog.
+https://itnext.io/kafka-vs-rabbitmq-f5abc02e3912,4,Community blog,Website company Medium provides Community blog.
+https://javarevisited.blogspot.com/2015/03/parsing-large-json-files-using-jackson.html,4,Community blog,"Description of site below title is ""Blog about Java, Programming, Spring, Hibernate, Interview Questions, Books and Online Course Recommendations from Udemy, Pluralsight, Coursera, etc"""
+https://javarevisited.blogspot.com/2016/09/top-5-json-library-in-java-JEE.html,3.571428571,Community blog,Same as above
+https://jaxenter.com/introduction-microservices-java-136067.html ,2.5,Community blog,No about page. Menu topics cover a wide range of tech related topics. Many authors. 
+https://jaxenter.com/streamline-software-integration-an-apache-camel-tutorial-140621.html,4,Community blog,Same as above
+https://levelup.gitconnected.com/restful-api-patterns-81930c43e494,4,Community blog,Website company Medium provides Community blogs.
+https://levelup.gitconnected.com/synchronous-vs-asynchronous-by-example-36b7b87711e7,4.5,Community blog,Website company Medium provides Community blogs.
+https://lwn.net/Articles/707510/,1.5,Community blog,"Click logo page states ""LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities."""
+https://medium.com/@aiven_io/nowadays-everyone-is-talking-about-building-data-platforms-or-data-pipelines-to-answer-specific-fc2f048b1154,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@Alibaba_Cloud/low-latency-distributed-messaging-with-rocketmq-part-1-9c219c7d4c83,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@alinvelican_49750/go-vs-java-json-serialization-and-deserialization-feeb18803525,2,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@anirbanroydas/rabbitchat-chat-server-using-tornado-sockjs-rabbitmq-also-talking-about-tcp-sockets-914a79bbcd2f,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@dannydamsky99/heres-why-you-probably-shouldn-t-be-using-the-gson-library-in-2018-4bed5698b78b,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@diogo.lucas/communication-patterns-in-a-microservice-world-af07192b12d3,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@ghogare.dhananjay/rabbit-mq-vs-active-mq-cbfec9ec359f,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@ideas.into.software/using-camel-and-rabbitmq-in-an-osgi-r7-application-including-custom-message-types-b314a142fc9c,2.428571429,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@jjsham/building-stock-price-dashboard-with-plotly-dash-part-i-b165b3edfdd6,4.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@joetilley/i-am-using-dialogflow-as-my-nlp-engine-for-my-chatbot-c9f707f2f72d,2.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@k.wahome/maximizing-microservices-architecture-part-2-principles-5b8004b0ed09,3.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@kmdkhadeer/microservices-best-practices-5fe3e28394b3,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@krishankantsinghal/messaging-queue-d6dcd6995775,2,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a,3.818181818,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@patrick.collins_58673/stock-api-landscape-5c6e054ee631,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@philipfeng/modern-open-source-messaging-apache-kafka-rabbitmq-nats-pulsar-and-nsq-ca3bf7422db5,3.666666667,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@Progressly/the-4-key-advantages-of-digital-data-collection-c839a89f168d,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@rameez.s.shaikh/build-a-chat-application-using-spring-boot-websocket-rabbitmq-2b82c142f85a,5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@rinu.gour123/difference-between-rabbitmq-kafka-afa7bdd79c8e,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b,2,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@shivsoni377/everything-you-need-to-know-about-apache-kafka-454f5ed9265f,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/@spats/flume-vs-kafka-110e13f6a7e3,3.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/adobetech/evaluating-streaming-frameworks-for-large-scale-event-streaming-7209938373c8,4.666666667,Community blog,Website company Medium provides personal blogs.
+https://medium.com/better-programming/rabbitmq-vs-kafka-1ef22a041793,3.75,Community blog,Website company Medium provides personal blogs.
+https://medium.com/design-and-tech-co/implementing-domain-driven-design-for-microservice-architecture-26eb0333d72e,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/dev-genius/some-detailed-differences-between-kafka-and-activemq-d40163cb2ac4,5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/fabcoding/laravel-redirect-users-according-to-roles-and-protect-routes-bde324fe1823,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/faun/develop-an-event-driven-application-based-on-kafka-camel-k-and-a-telegram-bot-on-openshift-step-2d60c94f3f33,2,Community blog,Website company Medium provides personal blogs.
+https://medium.com/faun/rabbitmq-connection-vs-channel-aed1188a7f3a,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/future-vision/the-principles-of-rest-6b00deac91b3,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/hackernoon/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/it-dead-inside/isolating-your-microservices-through-loose-coupling-48b710e28de6,4.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/linagora-engineering/how-to-choose-a-message-queue-247dde46e66c,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/oracledevs/data-consistency-among-microservices-is-it-possible-fe48938235d1,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8,4.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/ryans-dev-notes/learning-rabbitmq-3f59d11f66b4,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/softkit/introduction-to-message-brokers-part-2-activemq-vs-redis-pub-sub-fdaef1ca95d3,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97,2.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb,5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/swlh/the-principles-of-planning-and-implementing-microservices-3cb0eb76c172,5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/teamzerolabs/node-js-monitoring-with-prometheus-grafana-3056362ccb80,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/the-sixt-india-blog/microservice-communication-53cbc93cf4de,3,Community blog,Website company Medium provides personal blogs.
+https://medium.com/thg-tech-blog/a-feather-in-their-caps-4c4083cf9f46,2.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/voice-tech-podcast/different-types-of-chatbots-rule-based-vs-nlp-3ed642d82556,4,Community blog,Website company Medium provides personal blogs.
+https://medium.com/webstep/apache-kafka-in-a-nutshell-66fffd264de3,3.5,Community blog,Website company Medium provides personal blogs.
+https://medium.com/world-of-iot/93-understanding-the-basics-of-any-iot-data-pipeline-from-ingress-capture-to-processing-to-7538a5632478,2,Community blog,Website company Medium provides personal blogs.
+https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f,3.5,Community blog,Website company Medium provides personal blogs.
+https://morioh.com/p/4d79069e1cc5,4,Community blog,multiple authors. no about page.
+https://ngkester123.medium.com/design-patterns-for-microservices-9340b72407bb,4,Community blog,Website company Medium provides personal blogs.
+https://noise.getoto.net/tag/message-queues/,4.5,Community blog,"""About"" page describes it as a ""personal agregator"", a ""collection"" of ""news"" and ""texts""."
+https://opensource.com/article/18/4/guide-design-microservices,2.5,Community blog,"Multiple authors and topics. ""Supported"" but not run by a technology vendor. "
+https://opensource.com/article/18/9/open-source-log-aggregation-tools,3,Community blog,Same as above
+https://opensource.com/article/20/2/real-time-data-processing,2.75,Community blog,Same as above
+https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data,3,Community blog,Same as above
+https://pediaa.com/what-is-the-difference-between-activemq-and-rabbitmq/,3.5,Community blog,"Multiple topics, not all related to technology. eg. food articles. "
+https://polestarsolutions.medium.com/top-7-open-source-big-data-tools-in-2020-fb531e8dc41f,2,Community blog,Website company Medium provides community blogs.
+https://priyalwalpita.medium.com/coupling-and-cohesion-in-microservices-235ed9203843,3.666666667,Community blog,Website company Medium provides community blogs.
+https://programmer.help/blogs/performance-comparison-of-several-common-json-libraries-in-java.html,4.066666667,Community blog,Multiple authors. No about page.
+https://reflectoring.io/microservice-communication-patterns/,3.75,Community blog,Mutiple authors and topics. 
+https://solutionsreview.com/data-integration/2020-crn-big-data-100-data-integration-companies-to-consider/,3,Community blog,"Multiple authors. ""Solutions Review brings all of the technology news, opinion, best practices and industry events together in one place. "" No prices mentioned."
+https://solutionsreview.com/data-integration/28-best-data-integration-software-tools/,3.5,Community blog,Same as above
+https://solutionsreview.com/data-integration/etl-vs-elt-and-the-benefits-of-data-transformation-in-the-cloud/,4,Community blog,Same as above
+https://solutionsreview.com/data-integration/top-free-and-open-source-etl-tools-for-data-integration/,2.8,Community blog,Same as above
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/,4,Community blog,"Title says ""Essays, opinions, and advice on the act of computer programming from Stack Overflow."" Multiple authors"
+https://tech.ticketmaster.com/2014/12/01/getting-over-the-performance-hump-with-apache-camel/,3,Community blog,Multiple authors and topics. 
+https://techbeacon.com/app-dev-testing/5-fundamentals-successful-microservice-design,3,Community blog,"Mutliple authors and topics. ""About"" page states ""A Micro Focus publication for App Dev & Testing, DevOps, Enterprise IT and Security where experts share practical knowledge."""
+https://techbeacon.com/app-dev-testing/what-apache-kafka-why-it-so-popular-should-you-use-it,3.166666667,Community blog,Same as above
+https://thenewstack.io/apache-streaming-projects-exploratory-guide/,3.5,Community blog,Multiple authors and topics. 
+https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/,3,Community blog,Same as above
+https://titanwolf.org/Network/Articles/Article?AID=ee73a300-eb47-4361-a5a8-dd5e207b580f,4,Community blog,No about page. multiple authors. multiple topics.
+https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013,3,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/10-key-technologies-that-enable-big-data-analytics-for-businesses-d82703891e2f,2,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/5-reasons-why-your-chatbot-needs-natural-language-processing-ed20fb0a3655,3,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/8-open-source-big-data-tools-to-use-in-2018-e35cab47ca1d,2,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-architectures-lambda-and-kappa-for-big-data-4f35c28005bb,3,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/an-introduction-to-stream-processing-with-apache-flink-b4acfa58f14d,4,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984,3.5,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/best-free-and-paid-stock-market-apis-for-2020-11adb98e7023,4,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/big-data-integration-9a2fb2d78529,2.333333333,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/creating-smart-knowledge-base-systems-kbs-using-advanced-nlp-library-b5c21dfafcd1,5,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/effective-microservices-10-best-practices-c6e4ba0c6ee2,3,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/how-to-build-a-chatbot-a-lesson-in-nlp-d0df588afa4b,5,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44,2,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/how-to-make-a-simple-chatbot-841b5efa2094,2,Community blog,Website company Medium provides community blogs.
+https://towardsdatascience.com/intro-to-streaming-data-and-apache-kafka-5a797231258f,3.25,Community blog,Website company Medium provides community blogs.
+https://walkingtreetech.medium.com/versioning-management-in-microservices-8221ec592499,4,Community blog,Website company Medium provides personal blogs.
+https://whatis.techtarget.com/definition/streaming-data-architecture,3,Community blog,"""About us"" states ""WhatIs is a reference and self-education tool about information technology. The site provides readers with definitions for over 10,000 terms and over 1,000 fast references, cheat sheets and quizzes. """
+https://whatis.techtarget.com/definition/synchronous-asynchronous-API,3,Community blog,Same as above
+https://www.apmdigest.com/proactive-middleware-monitoring-how-it-keeps-business-humming,2,Community blog,"""About"" states ""APMdigest is a community blog that covers IT performance"""
+https://www.betterevaluation.org/en/evaluation-options/mobile_data_collection,2,Community blog,"Multiple authors. Bottom of page states ""We are a global collaboration aimed at improving evaluation practice and theory through co-creation, curation, and sharing information."""
+https://www.bigdata-insider.de/was-ist-stream-processing-a-863076/,2.333333333,Community blog,Multiple authors. German. 
+https://www.cio.com/article/2390814/big-data-leading-to-new-breed-of-service-provider.html,2,Community blog,Multiple authors and topics. 
+https://www.codementor.io/@goetas/modular-application-architecture-considerations-on-design-patterns-flmx1m731,4,Community blog,"Click on logo, page states ""Share insights, exchange ideas, and learn from fellow developers. Read the latest programming and coding tutorials. JOIN THE COMMUNITY"""
+https://www.comparitech.com/net-admin/log-management-tools/,3,Community blog,"Mutiple authors and topics. ""About"" page states ""Comparitech is a pro-consumer website providing information, tools, reviews and comparisons"""
+https://www.cxnetwork.com/cx-technology/articles/how-asynchronous-messaging-is-giving-power-back-to-the-customer,3,Community blog,Multiple authors and topics
+https://www.datadriveninvestor.com/2019/02/25/6-alternatives-to-the-yahoo-finance-api/,3,Community blog,"Multiple authors and topics. Bottom of page states ""Data Driven Investor (DDI) is dedicated to uncovering how ordinary people can best utilize data to make those decisions."""
+https://www.datamation.com/big-data/big-data-companies.html,4,Community blog,"Bottom of page states ""Datamation?s focus is on providing insight into the latest trends and innovation in AI"". multiple authors. "
+https://www.dataversity.net/big-data-integration-101-the-what-why-and-how/,3,Community blog,"Mutliple authors. ""About us"" describes them as "" a producer of educational resources"". "
+https://www.dataversity.net/what-is-data-streaming-a-data-architects-guide/,3,Community blog,Same as above
+https://www.dev-insider.de/best-practices-zu-microservice-design-logik-und-apis-a-678125/,3,Community blog,Multiple authors. German. Multiple topics.
+https://www.dev-insider.de/microservices-in-java-a-932857/,3,Community blog,Same as above
+https://www.dev-insider.de/was-ist-json-a-702243/,2,Community blog,Same as above
+https://www.eclipse.org/community/eclipse_newsletter/2018/november/jsonjakartaee.php,3.2,Community blog,"Click on logo, page states ""The Community for Open Innovation and Collaboration"". Click ""More"" in menu, then ""blogs"", shows mutiple authors."
+https://www.heise.de/developer/artikel/Mark-Struberg-ueber-die-verbesserte-JSON-Verarbeitung-in-Java-EE-8-3799078.html,3,Community blog,"Multiple authors. ""The digital subscription for IT and technology."" "
+https://www.heise.de/news/Streaming-Plattform-Apache-Kafka-2-6-verspricht-hoehere-Performance-4865673.html,2,Community blog,same as above.
+https://www.infoq.com/articles/advanced-architecture-aspnet-core/,4,Community blog,Multiple authors. Multiple topics. 
+https://www.infoq.com/articles/AMQP-RabbitMQ/,5,Community blog,Multiple authors. Multiple topics. 
+https://www.infoq.com/articles/apache-kafka/,4.5,Community blog,Same as above.
+https://www.infoq.com/articles/batch-etl-streams-kafka/,4,Community blog,same as above.
+https://www.infoq.com/articles/eai-with-apache-camel/,3.75,Community blog,same as above.
+https://www.infoq.com/articles/HIgh-Performance-Parsers-in-Java-V2/,3.695652174,Community blog,same as above.
+https://www.infoq.com/articles/microservices-design-ideals/,3.5,Community blog,same as above.
+https://www.infoq.com/articles/microservices-intro/,4.25,Community blog,same as above.
+https://www.infoq.com/articles/modular-java-what-is-it/,4,Community blog,same as above.
+https://www.infoq.com/articles/rest-introduction/,3,Community blog,same as above.
+https://www.infoq.com/articles/stream-processing-hadoop/,3,Community blog,same as above.
+https://www.infoq.com/articles/video-stream-analytics-opencv/,3,Community blog,same as above.
+https://www.infoq.com/articles/web-api-design-methodology/,4,Community blog,same as above.
+https://www.infoq.com/news/2014/06/hazelcastmq-v1-0-0/,1.666666667,Community blog,same as above.
+https://www.infoq.com/news/2018/06/decomposing-system-microservices/,3.25,Community blog,same as above.
+https://www.informatik-aktuell.de/entwicklung/programmiersprachen/apache-kafka-vs-enterprise-service-bus-esb-doch-nur-eine-hassliebe.html,4,Community blog,Multiple authors. Multiple topics. 
+https://www.informatik-aktuell.de/entwicklung/programmiersprachen/microservices-mit-java-ee-alptraum-oder-dreamteam.html,3,Community blog,Same as above.
+https://www.infoworld.com/article/2632681/service-oriented-architecture-getting-service-decomposition-right.html,3,Community blog,"Multiple authors. ""News, how-tos, features, reviews, and videos"""
+https://www.infoworld.com/article/3307518/real-time-data-processing-with-data-streaming-new-tools-for-a-new-era.html,2,Community blog,Same as above
+https://www.kdnuggets.com/2016/03/top-big-data-processing-frameworks.html,3,Community blog,Multiple authors and topics.
+https://www.linkedin.com/pulse/building-your-first-chatbot-python-valentina-alto,2,Community blog,"Article piublished to an account on LinkedIn, but it does not relate to LinkedIn."
+https://www.linkedin.com/pulse/comprehensive-analysis-apache-kafka-rassul-fazelat,3,Community blog,Same as above
+https://www.linkedin.com/pulse/flume-kafka-real-time-event-processing-lan-jiang,4,Community blog,Same as above
+https://www.linkedin.com/pulse/kafka-vs-rabbitmq-how-choose-open-source-message-maria-hatfield-phd,3,Community blog,Same as above
+https://www.linkedin.com/pulse/loose-coupling-microservice-architecture-patrick-van-vuuren,4.333333333,Community blog,Same as above
+https://www.linkedin.com/pulse/microservice-communication-arpit-jain,3.5,Community blog,Same as above
+https://www.linkedin.com/pulse/wondering-how-apache-kafka-different-compared-other-manish,4,Community blog,Same as above
+https://www.programmersought.com/article/11231022901/,4,Community blog,Same as above
+https://www.programmersought.com/article/2060222759/,4,Community blog,Same as above
+https://www.programmersought.com/article/62704054981/,2,Community blog,Same as above
+https://www.programmersought.com/article/8810191627/,3,Community blog,Same as above
+https://www.programmersought.com/article/8810377980/,3,Community blog,Same as above
+https://www.techiexpert.com/15-best-data-analytics-tools-for-big-data/,3,Community blog,"Most articles have same author but I found one by ""Sony T"". ""About us"" states ""We?ve writers all across [the world?]""."
+https://www.techrepublic.com/article/three-useful-tools-for-big-data-log-analysis/,3.333333333,Community blog,"Mutliple authors. ""About us"" states ""From breaking IT news to best practices, advice, and how-tos..."""
+https://www.trulia.com/blog/tech/designing-and-building-a-real-time-etl-system-with-apache-flume/,4,Community blog,"Commuity blog on a Real estate website. Multiple authors. Most articles are not IT realted. Bottom of page states ""Search homes and neighborhoods, anytime and anywhere"""
+https://www.webdesignerdepot.com/2020/09/real-time-stock-data-using-marketplaces-api/,5,Community blog,Multilple authors. Multiple topics. No about page.
+https://www.developer.com/java/json-processing-in-java-ee7.html,2,Community blog,"Bottom of page states ""Developer.com features tutorials, news, and how-tos focused on topics relevant to software engineers"". multiple authors. "
+https://www.developer.com/lang/jscript/top-7-open-source-json-binding-providers-available-today.html,4.5,Community blog,"Bottom of page states ""Developer.com features tutorials, news, and how-tos focused on topics relevant to software engineers"". multiple authors. "
+https://blogs.worldbank.org/dev4peace/exploiting-full-potential-new-technologies-data-collection-monitoring-and-conflict-prevention,1.5,Community blog,Multiple authors and topics. Not all realted to IT. 
+https://www.softwaretestinghelp.com/best-etl-tools/,3.25,Community blog on a tutorial site,"""About us"" page mentions multiple people. Mulitple ""courses"" and ""tutorials"". ""JOIN Our Team!"" shows anybody can post. "
+https://www.softwaretestinghelp.com/big-data-companies/,3,Community blog on a tutorial site,Same as above
+https://www.softwaretestinghelp.com/big-data-tools/,3.4,Community blog on a tutorial site,Same as above
+https://www.softwaretestinghelp.com/data-collection-tools/,2,Community blog on a tutorial site,Same as above
+https://www.softwaretestinghelp.com/log-management-software/,3,Community blog on a tutorial site,Same as above
+https://www.guru99.com/best-etl-tools.html,5,Community blog on a tutorial site,Multiple authors. Community blog on tutorial website. Many educational tutorials covering many topics. 
+https://www.guru99.com/big-data-tools.html,3,Community blog on a tutorial site,Same as above.
+https://www.guru99.com/data-integration-tools.html,3,Community blog on a tutorial site,Same as above.
+https://www.guru99.com/microservices-tutorial.html,3,Community blog on a tutorial site,Same as above.
+https://www.knowledgehut.com/blog/big-data/5-best-data-processing-frameworks,4,Community blog on Educational IT course provider site,"Multiple authors. Menu, about us section states ""KnowledgeHut is a leading training provider"" and ""explore in demand courses"". Mentions prices. "
+https://www.knowledgehut.com/blog/big-data/kafka-vs-spark,3,Community blog on Educational IT course provider site,Same as above
+https://www.springpeople.com/blog/4-message-brokers-you-need-to-know/,3,Community blog on Educational IT course provider site,"Click on logo, page states ""Learn from India's Biggest Enterprise IT Training Provider"". Pay for courses to be certified."
+https://www.springpeople.com/blog/data-warehousing-essentials-what-is-etl-tool-what-are-its-benefits/,4,Community blog on Educational IT course provider site,Same as above
+https://corporatefinanceinstitute.com/resources/knowledge/other/how-to-scrape-stock-data-with-python/,3,Educational IT course provider,"?About? page states ?CFI is a leading provider of online financial certification? programs, training, and workforce development?"
+https://mindmajix.com/chatbot,2,Educational IT course provider,"menu saysy ""Course Categories"""
+https://patterns.arcitura.com/service-api-patterns/fundamental-service-api-patterns/service-decomposition,2.714285714,Educational IT course provider,"Click on logo, page states ""A Commitment to Excellence in Vendor-Neutral IT Training + Certification"""
+https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101,2.5,Educational IT course provider,"Slogan is ""Learn in-demand tech skills in half the time"". ""Pricing"" and ""products"" in menu list courses."
+https://www.educba.com/activemq-vs-kafka/,4,Educational IT course provider,"Menu states ""free tutorials"", ""free courses"" and ""certification courses"" which customers pay for."
+https://www.educba.com/activemq-vs-rabbitmq/,3.777777778,Educational IT course provider,Same as above
+https://www.educba.com/apache-flume/,4,Educational IT course provider,Same as above
+https://www.educba.com/apache-kafka-vs-flume/,3.833333333,Educational IT course provider,Same as above
+https://www.educba.com/kafka-alternatives/,2.5,Educational IT course provider,Same as above
+https://www.edureka.co/blog/apache-flume-tutorial/,3.5,Educational IT course provider,"Bottom of page mentions ""courses"" and ""training"" . ""write for us"" in menu, showing anybody can contribute.  Customers pay for courses. "
+https://www.edureka.co/blog/microservice-architecture/,4,Educational IT course provider,Same as above
+https://www.edureka.co/blog/microservices-design-patterns,3.857142857,Educational IT course provider,Same as above
+https://www.edureka.co/community/83239/difference-between-synchronous-and-asynchronous-api-calls,2,Educational IT course provider,Same as above
+https://www.janbasktraining.com/blog/what-is-flume/,4,Educational IT course provider,"Menu states ""select a course"". title states ""...training, learn and grow"". States prices for each course."
+https://www.mastersindatascience.org/resources/open-source-tools-for-big-data-analysis/,2,Educational IT course provider,"""About"" page states ""2U builds, delivers, and supports hundreds of digital and in-person educational offerings, including degrees, professional certificates, Trilogy-powered boot camps, and GetSmarter short courses."""
+https://www.whizlabs.com/blog/real-time-data-streaming-tools/,3,Educational IT course provider,"""About us"" states ""We are dedicated to helping you learn the skills you need to achieve your goals."". Offers pricing for courses on many IT related topics."
+https://buff.ly/2x6OInL,3.833333333,Educational IT course provider,"?Home? title is ?Asia?s Largest Online Learning Platform?. ""Certification courses"" list prices."
+https://hackr.io/blog/web-application-architecture-definition-models-types-and-more,4,Educational IT course provider,"About page states ""provide an unbiased platform for learners to discover the best sources to learn a new skill."". ""tutorials and courses"" mention prices"
+https://platzi.com/blog/middlewares-laravel/,3,Educational IT course provider,"Spanish. Bottom of page states ""We transform the economy of our countries by training the next generation of technology professionals."".  Mentions prices."
+http://www.srikanthtechnologies.com/blog/java/javaee7_jsonapi.aspx,3,Educational IT course provider,About page states ?Srikanth Technologies˜is a software training institute?. Offers courses for a price. 
+https://blog.eduonix.com/web-programming-tutorials/learn-write-program-json-java/,1.5,Educational IT course provider,"""Courses"" in menu mentions prices"
+http://blog.gulfsoft.com/2018/07/processing-json-in-automation-scripts.html,3,IT Service Company,Logo states Gulfsoft Consulting (picture not text)
+http://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html,3,IT Service Company,"Logo states Chris Richardson Consulting, Inc."
+https://aiven.io/blog/benchmarking-kafka-write-throughput-performance-2019-update,4,IT Service Company,"Bottom of page, Company, About states ?We help organizations? to create ? ?applications? using the leading open source technologies?"
+https://aiven.io/blog/how-are-your-microservices-talking,3.5,IT Service Company,Same as above
+https://anarsolutions.com/top-8-architectural-principles-for-designing-modern-web-applications/,4,IT Service Company,"Top of page, about us states ?We partner with clients to create and support innovative ?solutions; that help businesses become a lasting success in the marketplace?"
+https://antaresnet.com/data_collection/,2,IT Service Company,"Name is ?Technology solutions?. About, How To Hire Us, list of services includes ?Software IT Consulting"
+https://apifriends.com/api-management/microservice-architecture-implementation/,2,IT Service Company,"Bottom of page states ""Consulting Services?"
+https://artificialintelligence.oodles.io/blogs/machine-learning-with-apache-kafka/,3,IT Service Company,"?Technologies marketing studio?, ?(AI) development team?, ?Our AI services include a ?wide spectrum of machine learning and deep learning techniques to build industry- ?specific AI solutions for our diverse clientele.?"
+https://blog.codecentric.de/2017/03/verteilte-stream-processing-frameworks-fuer-fast-data-big-data-ein-meer-moeglichkeiten/,4,IT Service Company,"German. About states ?navigating 520 customers as a trustworthy partner purposefully ?and pragmatically into a digital future, guided by trust, further training and quality.?"
+https://blog.codecentric.de/en/2018/03/etl-kafka/,3,IT Service Company,Same as above
+https://blog.codecentric.de/en/2018/08/easy-integration-between-services-with-apache-camel/,2.5,IT Service Company,Same as above
+https://blog.miraclesoft.com/the-nine-components-that-make-up-a-conversational-chatbot/,3,IT Service Company,?About us?
+https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html,3,IT Service Company,?What we do? states ?professional technologists and consultants?
+https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html,5,IT Service Company,Same as above
+https://blog.vsoftconsulting.com/blog/understanding-the-architecture-of-conversational-chatbot,2,IT Service Company,Word ?consulting? is in url and is in the name of the company. 
+https://chrisrichardson.net/post/refactoring/2020/08/21/ten-principles-for-refactoring-to-microservices.html,2,IT Service Company,Logo uses word ?consulting?
+https://codingsans.com/blog/microservice-architecture-best-practices,2.5,IT Service Company,?Who we are? states ?We?re a full-stack web development agency?
+https://datarespons.com/distributed-monitoring-control-using-dds/,2,IT Service Company,"""Serivces"" page states ""Data Respons delivers consultancy services, R&D development projects and experienced specialists"""
+https://datasolut.com/streaming-daten/,4,IT Service Company,"German. About page states ?At datasolut, we use artificial intelligence to find the data ?that is important for marketing.? ?Googled ?datasolut? which stated ?Business management consultant?. "
+https://dattell.com/data-architecture-blog/kafka-vs-rabbitmq-how-to-choose-an-open-source-message-broker/,3.666666667,IT Service Company,"Menu, about, ?guiding our clients through important decisions?"
+https://eclipsesource.com/blogs/2013/04/18/minimal-json-parser-for-java/,4.333333333,IT Service Company,"Menu, about us states ?We provide a complete range of services including conception,? evaluation, training, support, consulting??"
+https://freshcodeit.com/blog-introduction-to-message-brokers-part-1-apache-kafka-vs-rabbitmq,4.666666667,IT Service Company,"Menu, about us, main services mentions software-, mobile APP-, web application- development."
+https://gigaom.com/report/key-criteria-for-evaluating-streaming-data-platforms/,3,IT Service Company,"Googled ?GigaOm? which stated ?Gigaom is a blog-related media company that˜offers news, ?analysis, and opinions on startups, emerging technologies, and other technology related topics.?"
+https://headspring.com/2018/08/24/principles-for-microservices-integration/,4.5,IT Service Company,"""Who we are"" page states ""provider of enterprise software strategy and development"""
+https://info.nl/en/conversation/the-importance-of-loose-coupling-in-microservice-architecture/,4,IT Service Company,"About page states ""We are INFO. Since 1994, we have been translating your business challenges into impactful digital products."""
+https://inmation.com/company/tech-blog,2,IT Service Company,"About us page mentions ""Our consultants"" and ""Our experts can consult you"""
+https://objectcomputing.com/resources/publications/mnb,2.333333333,IT Service Company,"""About"" states ""We are a modern consulting company that takes businesses from insights to outcomes using breakthrough technology."""
+https://objectcomputing.com/resources/publications/mnb/using-erlang-with-corba-and-dds,2,IT Service Company,same as above
+https://phoenixnap.com/kb/install-and-configure-rabbitmq-on-kubernetes,3,IT Service Company,"Title states ""global IT services"". "
+https://redbyte.eu/en/blog/real-time-metrics-using-prometheus-and-grafana/,3,IT Service Company,"Menu contains ""Services"". ""About us"" gives steps of software development."
+https://shadow-soft.com/middleware-software-tools/,2.666666667,IT Service Company,"""services"" in menu"
+https://sites.google.com/a/mammatustech.com/mammatusmain/java-microservices-architecture,2,IT Service Company,"""about"""" states Mammatus Inc. is a training and consulting company"""
+https://sloboda-studio.com/blog/how-to-use-nlp-for-building-a-chatbot/,4,IT Service Company,"Click on logo, page states ""Web & mobile development company with custom development and dedicated teams services."""
+https://smartym.pro/blog/using-rabbitmq-in-chat-applications-and-messenger-application-architecture,3,IT Service Company,"Click on logo, page states ""Custom software development company"". ""Services"" in menu.˜"
+https://softwaremill.com/kafka-real-time-data-analytics-business,3,IT Service Company,"""Services"" in menu bar"
+https://softwaremill.com/mqperf,4.5,IT Service Company,"""Services"" in menu bar"
+https://topflightapps.com/ideas/how-to-build-a-chatbot/,2,IT Service Company,"""Services"" and ""book a consultation"" in menu "
+https://vironit.com/comparison-of-activemq-rabbitmq-and-zeromq-message-oriented-middleware/,4,IT Service Company,"""About us"" states ""provider of custom software development services (mobile apps, web-oriented solutions, business software)."""
+https://www.algoworks.com/blog/real-time-data-streaming-tools-and-technologies/,2,IT Service Company,"Click on logo, page states ""Algoworks, a leading custom software development company,"""
+https://www.altexsoft.com/blog/real-time-analytics/,3.5,IT Service Company,"Click on logo, page states ""... travel and hospitality technology consulting company"". "
+https://www.capgemini.com/2017/06/integrating-the-chatbot/,5,IT Service Company,"""Services"" option at bottom of page. ""About us"" describes them as a ""strategic partner... draw on deep industry expertise"" "
+https://www.chakray.com/decision-criteria-to-select-an-integration-middleware/,3,IT Service Company,"""About"" page states ""a group of 5 integration specialists"". and ""Get in touch to discover how Chakray can help your organisation become digitally agile"""
+https://www.chakray.com/microservices-communication-methods-types-and-styles/,2.5,IT Service Company,same as above
+https://www.clariontech.com/blog/5-best-technologies-to-build-microservices-architecture,2.5,IT Service Company,"Click on logo, page states ""HIRE TOP DEVELOPERS FROM INDIA & BUILD YOUR OFFSHORE TEAM
+Delivery Model Tailored for your Business Needs"""
+https://www.devteam.space/blog/10-best-practices-for-building-a-microservice-architecture/,2.333333333,IT Service Company,"About us page states ""DevTeam.Space is a vetted community of expert development teams"" and ""Hire Expert Developers with DevTeam.Space"""
+https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/,4,IT Service Company,same as above
+https://www.dezyre.com/article/sqoop-vs-flume-battle-of-the-hadoop-etl-tools-/176,2,IT Service Company,"Click on logo, page states ""3,000+ developers from 17 countries solve real business problems in Fortune 1,000 companies using ProjectPro's end-to-end project templates."""
+https://www.eckerson.com/articles/planning-your-data-architecture-for-streaming-analytics,2.5,IT Service Company,"Slogan is ""research, consulting, advisory"""
+https://www.fasthosts.co.uk/blog/rabbitmq-and-message-brokers/,4,IT Service Company,"Click on logo, page states ""Cloud Servers"", ""Virtual Private Servers"" and ""Dedicated Servers"""
+https://www.geospatialworld.net/article/real-time-data-collection-game-changer/,2,IT Service Company,"Slogan is ""GW CONSULTING // GW EVENTS // GW MEDIA"""
+https://www.h2kinfosys.com/blog/apache-flume-tutorial/,3,IT Service Company,"""About"" pages states they ""offer career boosting Software Training worldwide."", ""provides IT services"" and ""We offer best, latest and state of the art Cloud Technology"""
+https://www.innoq.com/de/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/,3.25,IT Service Company,"Click on logo, page states ""Honest consulting"" and ""our services"""
+https://www.intellectsoft.net/blog/web-application-architecture/,4,IT Service Company,"about under Company tab in menu, states ""We are a digital transformation consultancy and engineering company"""
+https://www.n-ix.com/best-big-data-service-providers-worldwide/,5,IT Service Company,"""Services"" in menu. ""About us"" states ""N-iX on the list of Modern Application Development Services providers"""
+https://www.openlogic.com/blog/activemq-vs-rabbitmq,5,IT Service Company,"""Services"" in menu. "
+https://www.openlogic.com/blog/introduction-enterprise-integration-patterns-and-apache-camel,2,IT Service Company,same as above
+https://www.oraylis.de/blog/kafka-und-flume-datenimport-im-grossen-stil,3,IT Service Company,"Menu states ""our solutions"" and lists services the company offers."
+https://www.predictiveanalyticstoday.com/data-ingestion-tools/,3.428571429,IT Service Company,"""services"" in menu. bottom of page states ""PAT RESEARCH is a leading provider of software and services selection, with a host of resources and services."""
+https://www.predictiveanalyticstoday.com/open-source-dashboard-software/,2,IT Service Company,Same as above
+https://www.predictiveanalyticstoday.com/top-business-intelligence-tools/,2,IT Service Company,Same as above
+https://www.predictiveanalyticstoday.com/top-free-extract-transform-load-etl-software/,3.5,IT Service Company,Same as above
+https://www.predictiveanalyticstoday.com/top-open-source-commercial-stream-analytics-platforms/,2.666666667,IT Service Company,Same as above
+https://www.predictiveanalyticstoday.com/what-is-etl-software-features/,4,IT Service Company,Same as above
+https://www.royalcyber.com/blog/middleware/integrating-dell-boomi-with-rabbitmq/,3,IT Service Company,"Menu has ""services"" list."
+https://www.scnsoft.com/blog/microservices-architecture-java-example,3,IT Service Company,"""About"" page states ""ScienceSoft is a provider of IT consulting and software development services."""
+https://www.scrapehero.com/best-data-management-etl-tools/,3,IT Service Company,"""Services"" in menu. Click on logo, page states ""We provide web scraping services to the world's most favorite brands"""
+https://www.scrapehero.com/scrape-nasdaq-stock-market-data/,2,IT Service Company,same as above
+https://www.searchtechnologies.com/blog/big-data-open-source-log-analytics,5,IT Service Company,"""Services"" in menu."
+https://www.softwebsolutions.com/resources/powerapps-integration-with-SAP.html,4,IT Service Company,"Menu contains a list of ""Services"""
+https://www.thedigitaltransformationpeople.com/channels/enabling-technologies/real-time-stream-processing-in-big-data-platform/,3,IT Service Company,"""Advisory"" and ""consultancy"" in menu"
+https://www.theseattledataguy.com/kafka-vs-rabbitmq-why-use-kafka/,4,IT Service Company,"Menu ""services"" page mentions multiple services offered."
+https://www.tiempodev.com/blog/microservices/,4,IT Service Company,"About page states ""3Pillar Global is more than a digital product development and innovation company."""
+https://www.tomitribe.com/blog/5-minutes-or-less-json-b-with-apache-johnzon/,3,IT Service Company,"Multiple authors. ""Services"" in menu. ""Company"" page states ""We provide jobs for developers, deliver support for consumers, educate people"""
+https://www.toptal.com/apache/apache-camel-tutorial,3.5,IT Service Company,"Click on logo, page states ""Toptal is an exclusive network of the top freelance software developers"". "
+https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api,3.5,IT Service Company,Same as above
+https://www.unifiedinfotech.net/blog/web-application-architecture-principles-explained/,3,IT Service Company,"""services"" in menu"
+https://www.woodardcurran.com/blog/the-benefits-of-using-mobile-technology-for-data-collection-and-reporting,3,IT Service Company,"""About"" states ""Woodard & Curran is more than just a consulting firm"""
+https://www.xenonstack.com/insights/real-time-data-streaming/,3.5,IT Service Company,"""What we do"" lists many IT services."
+https://www.xtivia.com/apache-camel-an-integration-framework/,3.666666667,IT Service Company,"""services"" in menu. Click on logo, page states ""Superior IT Solutions. Exceptional Technology Support"""
+https://xebia.com/blog/microservices-architecture-principle-4-asynchronous-communication-over-synchronous-communication/,3,IT Service Company,"""about us"" states ""We are a pioneering IT consultancy company,"""
+https://yalantis.com/blog/speed-up-json-encoding-decoding/,3.5,IT Service Company,"""services"" in menu. Click on logo, page states ""IT consulting company"""
+https://zeekat.nl/articles/mvc-for-the-web.html,3,IT Service Company,"""Development Consulting"" in menu and ""We provide coaching services and hands-on development & devops work."""
+http://cascadebusnews.com/advantages-disadvantages-using-mass-messaging-business/,2,Magazines and Newspapers,"Bottom of pages ""business newspaper... operated by Jeff Martin."". Multiple Authors. "
+https://analyticsindiamag.com/top-7-data-streaming-tools-for-real-time-analytics/,2.666666667,Magazines and Newspapers,"Bottom of page, About us states ?Analytics India Magazine ?chronicles technological progress?"
+https://analyticsindiamag.com/top-9-etl-tools-for-data-integration-in-2020/,3,Magazines and Newspapers,"Bottom of page, About us states ?Analytics India Magazine ?chronicles technological progress?"
+https://entwickler.de/online/development/design-pattern-microservices-579805880.html,3,Magazines and Newspapers,"Click on logo, states ""magazines, e-books and archives"""
+https://jaxenter.de/apache-kafka-cassandra-flink-interview-brebner-88355,3,Magazines and Newspapers,"URL that opens is ""https://entwickler.de/microservices/was-sind-eigentlich-microservices/"" which is a magazine website, however the original post was from ""https://jaxenter.com/"" which is a community blog"
+https://jaxenter.de/jsoniter-51579,2.666666667,Magazines and Newspapers,Same as above
+https://jaxenter.de/was-sind-microservices-40571,2,Magazines and Newspapers,Same as above
+https://www.analyticsinsight.net/top-10-steam-analytics-software-platforms-driving-data-integration/,4,Magazines and Newspapers,"Errors loading page. ""About us"" states ""We are the world?s First Print and Digital Publication""."
+https://www.com-magazin.de/praxis/business-it/echtzeit-analyse-dank-data-stream-processing-1667275.html?page=4_streaming-loesungen,2,Magazines and Newspapers,"URL has ""magazin"" in it."
+https://www.computerweekly.com/news/4500244917/Gartner-Enterprises-opt-for-Open-source-and-cloud-middleware-alternatives,2,Magazines and Newspapers,"""About us"" page states ""Computer Weekly provides the latest news and analysis through its website and 200,000-subscriber weekly digital magazine"""
+"https://www.computerwoche.de/a/apache-loesungen-zum-data-streaming,3546006",3,Magazines and Newspapers,"Googled ""Computerwoche"" which stated ""Computerwoche is an online publication for IT managers and business decision makers"""
+https://www.internetworld.de/data-analytics/microservices/microservices-shops-aus-bausteinen-1146827.html,2,Magazines and Newspapers,"Offers newsletters and magazines. ""Subscription"" in menu states prices."
+https://www.opensourceforu.com/2015/12/an-introduction-to-apache-activemq/,3,Magazines and Newspapers,"Bottom of page states ""Open Source For You is Asia's leading IT publication ... the magazine ..."". Menu states ""Subscribe to Print Edition"" which mentions pricing, and ""Write For Us"". "
+https://www.prnewswire.com/news-releases/global-open-source-streaming-microservices-and-middleware-messaging-market-2019-2025-5g-processes-api-components-to-support-technology-innovation-and-change-300883993.html,2,Magazines and Newspapers,Multiple topics. Multiple authors. News related. 
+https://www.smashingmagazine.com/2019/01/introducing-component-based-api/,2,Magazines and Newspapers,"Multiple authors. ""membership"" in menu mentions prices. ""magazine"" in title. ""Write for us"" button shows community can contribute. ""About"" page states ""Before an article is published, it?s reviewed by independent reviewers"""
+http://rubyamqp.info/articles/patterns_and_use_cases.html,4,IT Service Company,Not a blog
+https://publicwork.wordpress.com/2018/06/27/kafka-vs-rabbitmq-vs-enduro-x-vs-activemq-on-go-benchmark-of-the-2018/,2,Personal,No author information.
+https://www.codeflow.site/de/article/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared,4,Personal,German. No authors mentioned. Can't be considered personal or community. 
+https://www.codeflow.site/de/article/java-org-json,4,Personal,Same as above
+https://www.dnsstuff.com/log-monitoring-tools,3,IT Service Company,"Articles just say ""by Staff Contributor"". No about page. "
+https://www.javainuse.com/camel/camel_rabbit,2.666666667,Community blog,"Home page uses word ""us"", however that may be a formality. No authors mentioned. All articles are technology related. "
+https://www.techgeeknext.com/apache/kafka-interview-questions,3,Community blog,No authors mention. Multiple topics realted to IT.
+https://www.tek-tools.com/apm/best-log-aggregator-tools,4,IT Service Company,No authors mentioned. Multiple topics. Unsure if it is personal or community. 
+https://xyu.io/2015/07/13/building-a-faster-etl-pipeline-with-flume-kafka-and-hive/,4,Personal,No authors mentioned. Multiple topics. 
+https://bigdataanalyticsnews.com/3-useful-tools-big-data-log-analysis/,2.666666667,Magazines and Newspapers,"No author info. About page states ""A˜niche place for information about Big Data. The site consists information ?on business trends, big data use cases,??"
+http://www.columbia.edu/~tmd2142/best-6-stock-market-apis-for-2020.html,4,University blog,?columbia.edu' in URL
+http://www.waynecliffordbarker.co.za/functional-decomposition-for-microservices/,4,Personal,?There has been a critical error on this website.?
+https://craigmckenna.com/build-a-simple-chat-application-with-rabbitmq-on-node-js.html,2.666666667,Personal,Connection not private.
+https://gedoplan.de/apache-camel/,4,Educational IT course provider,German. 404 error.
+https://somospnt.com/blog/94-introduccion-a-apache-camel-fundamentos-y-arquitectura-2,4,IT Service Company,Spanish page. Unable to translate.
+https://stayrelevant.globant.com/en/kafka-a-high-throughput-message-broker/,5,IT Service Company,404 error.
+https://www.scalyr.com/blog/microservices-in-java-practical-examples/,2.5,Technology vendor,502 error
+http://ane.github.io/2017/03/08/camel-abstractions.html,3.5,Personal,"Home tab uses the words ""I"" and ""my""."
+http://arthur.gonigberg.com/2012/02/11/camel-rabbitmq/,3,Personal,"Bottom of page uses the word ""I'm""."
+http://biyatpragyanmohanty.com/article/2/Enterprise-Integration-with-Apache-Camel-Rabbit-MQ-and-Spring-Boot,3.25,Personal,Right side of page states ? Hello! I am Biyat. I develop software within ?Cloud and Big Data ecosystem.?
+http://blog.florian-hopf.de/2019/07/apache-camel.html,3.25,Personal,"Title is ""Software Developer living in Singapore"""
+http://blog.wenzlaff.de/?p=7222,3,Personal,"Privacy Notice uses the words ""my website"" and ""my services"""
+http://pragmaticnotes.com/tag/kafka-messaging-systems-comparison/,2,Personal,"About page uses the word ""I""."
+http://ravindranaik.com/which-messaging-queue-is-best/,5,Personal,Title is name of author. All posts are written by same person.
+http://rick-hightower.blogspot.com/2013/11/benchmark-for-json-parsing-boon-scores.html,5,Personal,"About me uses the word ""my""."
+http://rick-hightower.blogspot.com/2013/12/worlds-fastest-json-parser.html,3.6,Personal,"Website Blogspot means Personal blog. Uses word ""I""."
+http://tutorials.jenkov.com/java-json/gson-jsonparser.html,3.529411765,Personal,About URL invalid. Googled ?Jenkov Aps? which stated ?Historically Jenkov Aps ?was primarily a software consulting company?
+http://www.ofbizian.com/2016/01/performance-tuning-ideas-for-apache.html,3.5,Personal,"""About me"" in menu"
+https://alexanderdevelopment.net/post/2015/01/12/using-rabbitmq-as-a-message-broker-in-dynamics-crm-data-interfaces-part-1/,4,Personal,"Bottom of page, About, About me states ?This is my personal blog? "
+https://alexanderdevelopment.net/post/2015/01/20/using-rabbitmq-as-a-message-broker-in-dynamics-crm-data-interfaces-part-3/,4,Personal,Same as above
+https://alvinalexander.com/java/jwarehouse/gson/README.md.shtml ,5,Personal,Title is name of author.
+https://amihaiemil.com/2017/10/16/javaee8-jsoncollectors-oop-alternative.html,2,Personal,"About, About me states ?My name is.. I am a Java developer? "
+https://andrejgajdos.com/first-steps-with-messaging-in-java/,2.5,Personal,"About uses the word ""my""."
+https://automationrhapsody.com/unmarshalconvert-json-data-jaxbelement-object/,4,Personal,All articles by same author.
+https://awsfeed.com/whats-new/big-data/top-10-real-time-data-streaming-tools,4,Personal,All articles by same author. All articles relate to AWS or amazon. 
+https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215,4,Personal,Right side of page uses the word ?I?.
+https://blog.novoj.net/posts/2012-02-05-json-java-parsers-generators-microbenchmark/,4,Personal,Czech. ?About Author?
+https://blog.stefan-koch.name/2020/06/13/monitoring-stock-prices-with-grafana-and-prometheus,4,Personal,Bottom of page uses the word ?I?.
+https://blog.todotnet.com/2017/07/design-patterns-for-microservices/,2,Personal,"?About me"" links to LinkedIn page."
+https://bravenewgeek.com/benchmarking-message-queue-latency/,4.333333333,Personal,?About me? uses personal pronouns ?me? and ?I?
+https://bravenewgeek.com/tag/activemq/,5,Personal,Same as above
+https://bravenewgeek.com/tag/rabbitmq/,4.5,Personal,Same as above
+https://crunchify.com/how-to-read-json-object-from-file-in-java/,3,Personal,All articles by same author.
+https://danidee10.github.io/2018/01/13/realtime-django-5.html,4,Personal,"""About"" page uses words ""I"" and ""me"""
+https://danielpocock.com/real-time-streaming-market-data-with-free-open-source-software/,3,Personal,About page describes a persons professional experience and their name.
+https://dave.cheney.net/high-performance-json.html,3.5,Personal,Name of author is the name of the website/blog in url
+https://devqa.io/how-to-parse-json-in-java/,3.7,Personal,"Bottom of page ""About"" states ?Hi I am??"
+https://devqa.io/parse-json-response-rest-assured/,4,Personal,Same as above
+https://dghanwat.github.io/posts/2018/12/chatbot-with-nodejs-express-rabbitmq-part-1/,3,Personal,"Home, About me, uses words ?I? and ?me?"
+https://herbertograca.com/2017/01/26/microservices-architecture/,3,Personal,"About page uses words ""I"" and ""my""."
+https://highcohesionloosecoupling.com/index.php/tag/microservices/,2,Personal,"About me uses the word ""Me"" and ""I"". "
+https://howtodoinjava.com/jaxb/convert-object-to-json-moxy/,4,Personal,"""About me"" page. ""Java"" in title. all posts relate to java."
+https://itsallbinary.com/jackson-vs-gson-vs-json-b-vs-json-p-vs-org-json-vs-jsonpath-java-json-libraries-features-comparison/,3,Personal,Same as above.
+https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies,4,Personal,"Name of website is a person's name. About me uses the word ""me""."
+https://jack-vanlightly.com/blog/2017/12/5/rabbitmq-vs-kafka-part-2-rabbitmq-messaging-patterns-and-topologies,4,Personal,Same as above
+https://lemire.me/blog/2018/05/03/how-fast-can-you-parse-json/,2.833333333,Personal,Name of website is a person's name. Paragraph below title describes someones professional experience.
+https://lemire.me/blog/2020/03/31/we-released-simdjson-0-3-the-fastest-json-parser-in-the-world-is-even-better/,4,Personal,Same as above
+https://linuxhint.com/rabbitmq-vs-apache-kafka/,4.111111111,Personal,All posts by the sam author.
+https://martinfowler.com/articles/break-monolith-into-microservices.html,3.2,Personal,"Name of website is a person's name. Click logo, page uses works ""I"" and ""me""."
+https://martinfowler.com/articles/microservices.html,3.166666667,Personal,Same as above
+https://michaelhoweely.com/2019/08/27/how-to-make-a-stock-market-dashboard-in-google-data-studio/,3,Personal,"Name of website is a person's name. ""About"" uses the word ""I"" ""my"" and ""me"""
+https://michelkraemer.com/actson-reactive-json-parser/,3.666666667,Personal,"Name of website is a person's name. Click logo, page uses works ""I"" and ""me""."
+https://microservices.io/patterns/,4,Personal,"Side of page states ""Microservices.io is brought to you by Chris Richardson."". ""about"" page uses the word ""me""."
+https://microservices.io/patterns/apigateway.html,3,Personal,Same as above.
+https://microservices.io/patterns/communication-style/rpi.html,3,Personal,Same as above.
+https://microservices.io/patterns/decomposition/decompose-by-business-capability.html,3.846153846,Personal,Same as above.
+https://microservices.io/patterns/microservices.html,4.217391304,Personal,Same as above.
+https://mkyong.com/java/fastjson-convert-java-objects-to-from-json/,4,Personal,Title and URL is name of author.
+https://myfmw.wordpress.com/2017/05/14/bam-dashboards/,3,Personal,"Side of page uses word ""I"". ""About"" page contains a single person's contact information."
+https://neiljbrown.com/2017/08/26/evaluating-message-brokers-amazon-sqs/,2,Personal,"""About me"" in menu"
+https://niels.nu/blog/2016/microservice-versioning.html,4,Personal,"""About"" page uses words ""I"" and ""me"""
+https://onegoodexample.wordpress.com/2016/07/10/apache-camel-throughput-or-performance-improvement-while-writing-into-files/,4,Personal,"""About"" page uses words ""I"" and ""me"" "
+https://phauer.com/2015/restful-api-design-best-practices/,4,Personal,"Title is ""Philipp Hauer's Blog"""
+https://piotrminkowski.wordpress.com/category/message-brokers/ ,5,Personal,"""About me"" in menu. "
+https://restfulapi.net/,3,Personal,"""About us"" titled ""Who am I ?"" and uses works ""I"" and ""me"""
+https://rieckpil.de/whatis-json-processing-json-p/,4,Personal,"""About"" page uses words ""I"" and ""me"""
+https://romanmarkunas.com/messaging/2018/09/22/0003-messaging-messaging-system-latencies-1-kafka/,3,Personal,"Side of page uses words ""I"" and ""my"""
+https://specify.io/concepts/microservices,2,Personal,One author.
+https://thedulinreport.com/2015/09/05/top-ten-differences-between-activemq-and-amazon-sqs/,4,Personal,"Side of page uses terms ""I"" and ""my"". authors surname is title of page."
+https://tirsus.com/realime-data-stream-processing-big-data/,2.5,Personal,"German. ""About"" states ""Hi, I'm Ursula Deriu"""
+https://tomd.xyz/kubernetes-event-driven-keda/,2,Personal,"""About me"" in menu. Title and URL is person's name."
+https://tuhrig.de/jaxb-vs-gson-and-jackson/,2,Personal,"Click on name in corner, URL is surname of author."
+https://tutorial-academy.com/json-parser-antlr4-eclipse/,4,Personal,All articles have same author. No about page.
+https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/,3,Personal,"""About me"" uses ""I"". Title and URL is name."
+https://www.ben-morris.com/why-rest-is-not-a-silver-bullet-for-soa-and-microservice-integration/,2,Personal,Same as above
+https://www.bennadel.com/blog/3504-microservices-patterns-with-examples-in-java-by-chris-richardson.htm,2,Personal,"""About me"" uses ""I"". Title and URL is name."
+https://www.dineshonjava.com/application-decomposition-to-microservice/,5,Personal,"""Training"" menu item contains ""Who I am"" page."
+https://www.hossambarakat.net/2017/11/11/microservices-coupling-with-synchronous-integration/,3,Personal,Title is a name. Left side of page describes a person's qualifications. 
+https://www.java-success.com/jms-versus-amqp-enterprise-integration-patterns-eip-spring-integration-versus-apache-camel/,2.666666667,Personal,"About page uses words ""I"" and ""my"""
+https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html,3.75,Personal,All articles have same author.
+https://www.javaguides.net/2018/06/restful-api-design-best-practices.html,4,Personal,"Side of page states ""About Me"", uses words ""I"", ""me"" and ""my"""
+https://www.javaguides.net/2019/07/best-json-library-for-java.html,3.090909091,Personal,same as above
+https://www.javarticles.com/2015/06/apache-camel-transforming-using-simple-expression.html,3,Personal,All articles have same author
+https://www.javatpoint.com/apache-kafka-advantages-and-disadvantages,4,Personal,"Bottom on page states ""about me"" and uses words ""I"" and ""my"""
+https://www.javatpoint.com/java-json-example,3,Personal,Same as above
+https://www.javatpoint.com/microservices,2.5,Personal,Same as above
+https://www.javatpoint.com/restful-web-services-architecture-of-web-services,3,Personal,Same as above
+https://www.journaldev.com/2315/java-json-example,2,Personal,"""About"" uses words ""I"" and ""me"""
+https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial,3.533333333,Personal,Same as above
+https://www.kai-waehner.de/blog/2011/06/02/when-to-use-apache-camel/,3,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2012/01/10/spoilt-for-choice-which-integration-framework-to-use-spring-integration-mule-esb-or-apache-camel/,3,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2015/10/25/comparison-of-stream-processing-frameworks-and-products/,2.333333333,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2016/11/15/streaming-analytics-comparison-open-source-frameworks-products-cloud-services/,4,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2019/03/07/apache-kafka-middleware-mq-etl-esb-comparison/,3.5,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2019/11/28/apache-kafka-industrial-iot-iiot-build-an-open-scalable-reliable-digital-twin/,3,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2020/01/01/apache-kafka-edge-computing-industrial-iot-retailing-logistics/,2,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2020/03/12/can-apache-kafka-replace-database-acid-storage-transactions-sql-nosql-data-lake/,2,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/,5,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/,2,Personal,"Title and url is name of author. ""about me"" in menu."
+https://www.kompf.de/java/jaxbjson.html,4,Personal,"Click the link ""Kompf.de"" states ""Martin Kompf's blog about software"""
+https://www.marcobehler.com/guides/java-microservices-a-practical-guide,3.4,Personal,"""About"" page uses words ""I"" and ""me"""
+https://www.mirkosertic.de/blog/2013/05/comparison-of-jaxb-xml-and-json-serialization-performance/,3.333333333,Personal,"Click on logo, page uses words ""I"" and ""my"""
+https://www.morling.dev/blog/plugin-architectures-with-layrry-and-the-java-module-system/,3,Personal,"Title and url is author's name. ""About me"" section."
+https://www.ozgurozkok.com/rabbitmq-vs-kafka-vs-activemq-what-are-the-differences/,3.5625,Personal,"Not english. Title, url and author are the same. All articles by same author. "
+https://www.predic8.com/activemq-hornetq-rabbitmq-apollo-qpid-comparison.htm,4,Personal,All posts have same author.
+https://www.predic8.de/activemq-hornetq-rabbitmq-apollo-qpid-vergleich.htm,4,Personal,Same as above
+https://www.predic8.de/apache-artemis-vergleich-kafka-activemq.htm,2.666666667,Personal,Same as above
+https://www.predic8.de/camel.htm,3.5,Personal,Same as above
+https://www.webforefront.com/performance/scaling101.html,3,Personal,"""About the author"" in menu uses word ""I"""
+https://www.zupzup.org/k8s-rabbitmq-cluster/index.html,2,Personal,"""About"" pages uses words ""my"" and ""I"""
+https://wp.nyu.edu/qids/2020/06/23/best-stock-api-2020/,4,Personal,I can only find one article on this website. So personal is only option .
+https://rtview.com/create-a-real-time-information-portal-in-wordpress/,1.5,IT Service Company,
+https://thorben-janssen.com/data-and-communication-patterns-for-microservices-waitlist/,1.333333333,Personal,
+https://www.beyondtrust.com/docs/remote-support/how-to/integrations/real-time-dashboard/configure-plugin.htm,1.333333333,IT Service Company,
+https://www.globalme.net/blog/data-collection-methods-emerging-technology/,1.333333333,IT Service Company,
+https://www.osudio.com/en/blog/microservices-ecommerce-success,1.5,IT Service Company,
+https://markets.businessinsider.com/news/stocks/global-middleware-market-2017-2021-1004670326,2,Technology specific community blog,"Googled ""Markets insider"" page states ""A stock market site by Business Insider with real-time data, custom charts and breaking news."""
+https://nordicapis.com/microservices-architecture-the-good-the-bad-and-what-you-could-be-doing-better/,2,Technology specific community blog,Same as above
+https://searchapparchitecture.techtarget.com/feature/5-core-components-of-microservices-architecture,2,Technology specific community blog,Same as above
+https://www.gigaspaces.com/news/a-comparison-of-open-source-real-time-data-streaming-platforms/,2,Technology specific community blog,Multiple authors. All articles relate to data management. 
+https://www.ibm.com/blogs/cloud-archive/2015/03/sample-application-using-microservices-bluemix/,2,Technology specific community blog,Multiple authors. Run by a product vendor. All blog posts relate to IBM.
+https://www.javacodegeeks.com/2011/09/real-modular-web-applications-why-there.html,2,Technology specific community blog,Multiple authors. Title shows focus on Java. All posts relate to Java.
+https://www.javacodegeeks.com/2014/06/microservice-architecture-a-quick-guide.html,2,Technology specific community blog,Multiple authors. Title shows focus on Java. All posts relate to Java.
+https://www.javacodegeeks.com/2016/05/components-involved-creating-robust-micro-service-architecture.html,2,Technology specific community blog,Multiple authors. Title shows focus on Java. All posts relate to Java.
+https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-amqp-example/,2.1,Technology specific community blog,Same as above
+https://searchapparchitecture.techtarget.com/definition/middleware,2.333333333,Technology specific community blog,All topics relate to app architecture. Multiple authors. 
+https://searchapparchitecture.techtarget.com/tip/Follow-these-10-fundamental-microservices-design-principles,2.5,Technology specific community blog,Same as above
+https://discover.bot/bot-talk/behind-the-scenes-using-nlp-to-power-chatbot/,3,Technology specific community blog,Same as above
+https://datawarehouseinfo.com/etl-vs-elt-transform-first-or-transform-later/,3,Technology specific community blog,"Bottom of page states "" Data Warehouse Information Center is a knowledge hub that ?provides educational resources related to data warehousing.?"
+https://project-management.com/dashboard-software/,3,Technology specific community blog,"Multiple authors. All article relate to project management. ""About us"" states ""Project-Management.com is a website dedicated to providing modern tools, latest news, and best practice references for every project professional and business organization."""
+https://searchmobilecomputing.techtarget.com/tip/How-middleware-platforms-can-benefit-mobile-apps,3,Technology specific community blog,"All topics relate to mobile computing. ""About us"" page states ""SearchMobileComputing is the leading source of news, analysis and how-to information about enterprise mobility."""
+https://www.exceltip.com/stock-performance/stock-market-dashboard-by-pedroufksi.html,3,Technology specific community blog,"""About us"" states ""At Excel Tip, we make it our aim to make you excel in Microsoft Excel by providing you with the help of the best- in- the- field experts."""
+https://www.ibm.com/garage/method/practices/code/refactor-to-microservices/,3,Technology specific community blog,Same as above.
+https://www.mssqltips.com/sqlservertip/6233/collecting-time-series-data-for-stock-market-with-sql-server/,3,Technology specific community blog,Multiple authors. All articles related to SQL.
+https://www.theserverside.com/feature/Can-a-pattern-become-an-anti-pattern-How-to-avoid-the-loose-coupling-mistake,3,Technology specific community blog,"Multiple authors. all topics related to Java. ""About us"" states ""Welcome to TheServerSide.com, the world?s largest online community for enterprise Java architects and developers.  """
+https://searchdatamanagement.techtarget.com/feature/A-comparison-of-open-source-real-time-data-streaming-vendors,3.25,Technology specific community blog,"All topics relate to data management. Multiple authors. ""About us"" states ""SearchDataManagement is a knowledge guide for data management professionals and business intelligence leaders. With our offering of news articles, learning guides, expert advice, and customized research"""
+https://examples.javacodegeeks.com/design-patterns-for-microservices/,3.333333333,Technology specific community blog,Same as above
+https://dataintegrationinfo.com/data-integration-features/,4,Technology specific community blog,"Bottom of page states ""Data Integration Information Hub provides resources ?related to data integration?"
+https://discover.bot/bot-talk/,4,Technology specific community blog,Multiple authors. Bottom of page About states ?Discover.bot is an online community for bot creators.?
+https://examples.javacodegeeks.com/core-java/xml/bind/jaxb-json-example/,4,Technology specific community blog,"Multiple authors. All articles relate to Java. Bottom of page states ""JCGs (Java Code Geeks) is an independent online community? focused on creating the ultimate Java to Java developers resource center?. "
+https://examples.javacodegeeks.com/java-json-parser-example/,4,Technology specific community blog,Same as above
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying,4,Technology specific community blog,"Multiple authors shows community, all blogs are related to LinkedIn so tech specific."
+https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines,4,Technology specific community blog,Same as above
+https://nordicapis.com/all-you-need-to-know-about-rest-api-design/,4,Technology specific community blog,"""About"" page states ""High impact blog posts and eBooks on API business models, and tech advice"".  Multiple authors. "
+https://developer.ibm.com/languages/java/articles/j-javaee8-json-binding-4/,4,Technology specific community blog,"About page states ""IBM Developer is a global community of coders.?"
+https://stackabuse.com/reading-and-writing-json-in-java/,4.5,Technology specific community blog,"Mutiple authors. Every article is realted to Java and Python. Offers courses but for free. Has ""write for us"" button."
+https://nordicapis.com/the-difference-between-tight-coupling-and-loose-coupling/ ,5,Technology specific community blog,"Multiple authors. Bottom of page ""about"" states ""Nordic APIs is an international community of API practitioners and enthusiasts."""
+https://www.ibm.com/cloud/blog/rapidly-developing-applications-part-6-exposing-and-versioning-apis,5,Technology specific community blog,Same as above.
+https://www.javacodegeeks.com/2019/07/json-and-xml-how-do-they-compare.html,5,Technology specific community blog,Multiple authors. Title shows focus on Java. All posts relate to Java.
+https://www.syslog-ng.com/community/b/blog/posts/kafka-and-syslog-ng,3,Technology Vendor,"All articles realted to ""syslog-ng"". All articles in blog written by same person. syslog-ng is a technology vendor. Has ""products"" in menu."
+https://amplitude.com/real-time-analytics,3,Technology Vendor,"menu item ""company"", ""about us"", ""We are the Digital Optimization System."", ""behavioral analytics platform."""
+https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/,2,Technology Vendor,Same as above
+https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/,4,Technology Vendor,"Bottom of page, About Us states ""An API framework?."
+https://blog.logrocket.com/methods-for-microservice-communication/,3.333333333,Technology Vendor,Same as above
+https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/,5,Technology Vendor,Same as above
+https://blog.payara.fish/microservices-for-java-ee-developers2,2,Technology Vendor,"Menu, About Us, Visit About us"
+https://blog.quandl.com/api-for-stock-data,2,Technology Vendor,"Right side of page states ?Nasdaq Data Link is a premier source for financial, ?economic and alternative datasets.?"
+https://blog.trifork.com/2018/04/13/exposing-asynchronous-communication-through-a-synchronous-rest-api-with-spring-5/,3,Technology Vendor,?About Trifork? states ?Trifork is an international supplier of high-quality? custom-built applications?
+https://blog.trigent.com/synchronous-vs-asynchronous-request-handling/,4,Technology Vendor,Googled ?Trident overcoming limits? which states ?global technology services company?
+https://blogs.apache.org/flume/entry/flume_ng_architecture,3,Technology Vendor,Click ?foundation? in top menus which states ?The mission of the Apache Software? Foundation (ASF) is to provide software?
+https://blogs.sap.com/2016/01/12/adapters-for-sap-hci-integration-with-ms-dynamics-crm-and-rabbitmq/,4,Technology Vendor,?About SAP: Company information? states ?market leader in enterprise application software?
+https://blogs.sap.com/2019/11/20/cloud-integration-connecting-to-external-messaging-systems-using-the-amqp-adapter/,3,Technology Vendor,Same as above
+https://engineering.bitnami.com/articles/bitnami-rabbitmq-cluster-searching-for-the-maximum-performance.html,2,Technology Vendor,"Click logo, page states ?Bitnami makes it easy to get your favorite open source ?software up and running on any platform?"
+https://geekflare.com/best-stock-market-api/,5,Technology Vendor,"""pricing"" page shows it is not just a community blog. ""Hiring"" page states ""Write to teach thousands of people globally, ... get paid."" shows authors need to be specialised."
+https://geekflare.com/de/best-stock-market-api/,4.5,Technology Vendor,Same as above
+https://geekflare.com/de/open-source-centralized-logging/,5,Technology Vendor,Same as above
+https://geekflare.com/open-source-centralized-logging/,2,Technology Vendor,Same as above
+https://hevodata.com/blog/best-etl-tools-data-warehouse/,3,Technology Vendor,"Click logo, page states ""Hevo is a no-code and highly intuitive data pipeline."""
+https://hevodata.com/learn/best-big-data-etl-tools/,4,Technology Vendor,Same as above
+https://hevodata.com/learn/best-elt-tools/,3,Technology Vendor,Same as above
+https://insights.mgm-tp.com/en/designing-and-implementing-our-camel-based-mgm-cosmo-router-robust-and-fail-safe-message-routing-with-apache-camel-part-1/,3,Technology Vendor,"404 error but can still view website. About us page mentions technology -, consulting -, security - and integration - partners"
+https://mobilemonkey.com/blog/how-to-create-a-chatbot/,3,Technology Vendor,"""Pricing"" in menu. Click on logo, page states ""LEARN MORE ABOUT MOBILEMONKEY PRODUCTS DESIGNED FOR MARKETERS, BUSINESS OWNERS, CREATORS & COACHES"""
+https://moz.com/blog/chat-bot,4,Technology Vendor,"Click logo, page states ""Moz Pro: the proven, all-in-one SEO toolset"". multiple authors. "
+https://mydatascope.com/blog/en/benefits-of-using-digital-forms-for-data-collection/,2,Technology Vendor,"menu has ""solutions"" and ""pricing"""
+https://netbeans.org/community/magazine/html/03/visualwebdev/,2,Technology Vendor,"404 page error. Click on logo, page states ""Development Environment, Tooling Platform and Application Framework."""
+https://newrelic.com/solutions/real-time-analytics,2,Technology Vendor,"""platform"" and ""pricing"" in menu"
+https://online.visual-paradigm.com/diagrams/templates/enterprise-integration-patterns/sprint-integration-and-apache-camel/,2,Technology Vendor,"""pricing"" and ""explore"" in menu mentions products and Infographic Maker"". "
+https://open-telekom-cloud.com/en/products-services/distributed-message-service,2,Technology Vendor,"Title states ""Open Telekom Cloud for Business Customers"""
+https://otonomo.io/blog/redis-kafka-or-rabbitmq-which-microservices-message-broker-to-choose/,3.571428571,Technology Vendor,"Click on logo, page states ""Multi-Layered Vehicle Data. Fleet Data. Mobility Intelligence."""
+https://pusher.com/tutorials/realtime-analytics-dashboard-express,2.666666667,Technology Vendor,"Click on logo, ""products"" and ""pricing"" in menu."
+https://solace.com/blog/eventual-consistency-in-microservices/,3,Technology Vendor,"""Prouducts"" in menu page states ""A complete event streaming and management platform for the real-time enterprise."""
+https://spring.io/blog/2011/04/01/routing-topologies-for-performance-and-scalability-with-rabbitmq/,4,Technology Vendor,"""Why spring"" page describes it as "" world's most popular Java framework"""
+https://spring.io/blog/2015/07/14/microservices-with-spring,2.8,Technology Vendor,Same as above
+https://sqlstream.com/big-data-in-telecoms-means-better-service/,2,Technology Vendor,"Click logo, page states ""A SQL PLATFORM FOR STREAMING ANALYTICS"""
+https://stackify.com/best-log-management-tools/,3,Technology Vendor,"""Products"" and ""start free trial"" in menu"
+https://stackify.com/top-11-json-performance-usage-tips/,3,Technology Vendor,Same as above
+https://stackify.com/what-are-microservices/,3.5,Technology Vendor,Same as above
+https://streamnative.io/en/blog/tech/2020-11-09-benchmark-pulsar-kafka-performance,4,Technology Vendor,"""Products"" in menu. Click on logo, page states ""The unified messaging and streaming platform"""
+https://streamsets.com/blog/five-ways-to-scale-kafka-with-streamsets/,3,Technology Vendor,"Title is ""StreamSets, a Software AG company,"". Menu contains ""request a demo"" and ""try now""."
+https://streamsets.com/blog/straight-customers-benefits-modern-ingestion/,3,Technology Vendor,Same as above
+https://wso2.com/whitepapers/microservices-in-practice-key-architectural-concepts-of-an-msa/,5,Technology Vendor,"""Products"" menu at bottom of page contains ""API manager"", ""cloud"", ""strategic consulting""."
+https://www.alibabacloud.com/blog/alibaba-cloud-realtime-compute-for-apache-flink-provides-solutions-for-the-financial-industry_596848,2,Technology Vendor,"""Product"" in menu. Home page states ""Explore endless possibilities using products designed for complex and dynamic environments."""
+https://www.alibabacloud.com/blog/how-to-synchronize-data-from-message-queue-for-apache-kafka-to-maxcompute_596166,3,Technology Vendor,Same as above
+https://www.astera.com/type/blog/etl-tools-and-what-is-etl/,3.75,Technology Vendor,"Has ""products"" and ""services"" in menu bar"
+https://www.astera.com/type/blog/rest-api-definition/,4,Technology Vendor,Same as above
+https://www.atlassian.com/continuous-delivery/microservices/building-microservices,3,Technology Vendor,"Has ""products"" in menu bar. Click on logo, page states ""We make tools like Jira and Trello that are used by thousands of teams worldwide. """
+https://www.atomikos.com/Blog/ReviewUnderstandingMessageBrokersKafkaVersusActiveMQ,4,Technology Vendor,"Has ""products"" in menu bar"
+https://www.cdata.com/kb/tech/dynamicscrm-jdbc-apache-camel.rst,3.5,Technology Vendor,"Click on logo, page states ""The world's leading data connectivity platform"""
+https://www.cloudkarafka.com/blog/2020-02-02-which-service-rabbitmq-vs-apache-kafka.html,5,Technology Vendor,"Click on logo, title states ""Affordable and straightforward, fully managed clusters available on AWS and Google Cloud."""
+https://www.dimelo.com/en/blog/integration-agents-chatbots-botmind/,2,Technology Vendor,"Click on logo, page states ""Simpler communications. Call, meet, and message all in one app."". ""products"" in menu."
+https://www.dynatrace.com/news/blog/performance-vs-scalability/,2,Technology Vendor,"Click on logo, page states ""Simplify cloud complexity with Software Intelligence ? observability, automation, AI, and cloud-native application security in one platform."""
+https://www.flexera.com/blog/elo/maximizing-middleware-for-ultimate-predictive-analytics/,2,Technology Vendor,"""About"" states ""Flexera delivers SaaS-based IT management solutions"" and ""request demo"" button."
+https://www.globenewswire.com/news-release/2020/11/10/2123587/0/en/Global-Big-Data-in-Telecom-Analytics-Market-Report-2020-Over-22-of-Carrier-App-Value-Will-be-Enabled-via-Big-Data-by-2025.html,2,Technology Vendor,"""About"" page states ""GlobeNewswire is one of the world's largest newswire distribution networks"""
+https://www.graylog.org/post/log-analysis-and-the-challenge-of-processing-big-data,2,Technology Vendor,"""products"" and ""pricing"" in menu"
+https://www.kelltontech.com/kellton-tech-blog/how-integrate-rabbitmq-webmethods,4,Technology Vendor,"Menu mentions ""services, technologies, platforms and products"". ""Kellton4Media ? a unique framework for a unique industry"""
+https://www.kmslh.com/5-reasons-chatbots-need-a-strong-knowledge-base/,4,Technology Vendor,"Bottom of page has ""Products"" section."
+https://www.lambdatest.com/blog/design-patterns-for-micro-service-architecture/,3.666666667,Technology Vendor,"""pricing"" in menu. Click on logo, page states ""Powerful Cloud Testing Platform"""
+https://www.leanix.net/en/blog/developing-microservices-with-java,3,Technology Vendor,"""products"" in menu"
+https://www.leanix.net/en/blog/internet-of-things-middleware,2,Technology Vendor,Same as above
+https://www.loggly.com/blog/loggly-loves-apache-kafka-use-unbreakable-messaging-better-log-management/,4,Technology Vendor,"Menu mentions ""Product"" and ""Pricing"""
+https://www.mirantis.com/blog/best-practices-rabbitmq-openstack/,2,Technology Vendor,"""products"" in menu."
+https://www.mydbsync.com/blogs/eai-or-etl-when-you-should-choose-one-over-the-other/,2,Technology Vendor,"Multiple authors. Click on ""home page"" states ""We provide a Platform for Data Integration, Replication, Backup and Restore. start free trial"""
+https://www.netapp.com/artificial-intelligence/big-data-analytics/what-is-big-data/,2,Technology Vendor,"""products"" in menu"
+https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/,2,Technology Vendor,"""products"" and ""start free trial"" in menu"
+https://www.nuwavesolutions.com/dynamically-parsing-json-to-arbitrary-java-classes-using-the-jackson-json-library/,3,Technology Vendor,"404 page error. ""Products"" in menu"
+https://www.overops.com/blog/the-ultimate-json-library-json-simple-vs-gson-vs-jackson-vs-json/,3.964285714,Technology Vendor,"""products"" and ""pricing"" in menu"
+https://www.precisely.com/blog/big-data/4-benefits-of-using-apache-kafka-in-lieu-of-amqp-or-jms,3.333333333,Technology Vendor,"""products"" in menu"
+https://www.pulumi.com/blog/rabbitmq-azure/,2,Technology Vendor,"""product"" and ""pricing"" in menu"
+https://www.punchout2go.com/blog-posts/fast-and-scalable-b2b-automation-managed-integration-layer/,4,Technology Vendor,"""About"" page states ""PunchOut2Go? delivers the most robust and flexible Punchout Catalogs Solutions for suppliers."""
+https://www.purchasecontrol.com/blog/application-integration/,2,Technology Vendor,"""book a live demo"" button. ""product"" in menu. "
+https://www.rabbitmq.com/blog/2012/04/25/rabbitmq-performance-measurements-part-2/,4,Technology Vendor,"Click on logo, page states ""RabbitMQ is the most widely deployed open source message broker."""
+https://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth/,2,Technology Vendor,Same as above
+https://www.rabbitmq.com/blog/2020/08/10/deploying-rabbitmq-to-kubernetes-whats-involved/,3,Technology Vendor,Same as above
+https://www.rabbitmq.com/blog/category/performance-2/,3,Technology Vendor,Same as above
+https://www.redhat.com/de/topics/middleware/what-is-middleware,2,Technology Vendor,"Menu has ""Products"", mentioning a ""Open hybrid cloud"" and ""cloud services""."
+https://www.redhat.com/en/blog/insights-about-tuning-apache-camel-application-deployed-spring-boot,4,Technology Vendor,Same as above
+https://www.redhat.com/en/blog/intro-scalability,2,Technology Vendor,Same as above
+https://www.snowflake.com/blog/designing-modern-big-data-streaming-architectures-at-scale-part-one/?lang=de,2,Technology Vendor,"""about"" page states ""Snowflake's founders built a data platform"""
+https://www.stitchdata.com/vs/informatica/streamsets/,2.5,Technology Vendor,"""product"" and ""pricing"" in menu"
+https://www.synopsys.com/blogs/software-security/json-license-limitations/,2,Technology Vendor,"""products"" in menu. "
+https://www.talend.com/blog/2018/05/08/introducing-talend-data-streams-self-service-streaming-data-integration-for-everyone/,3,Technology Vendor,"""products"" in menu"
+https://www.torocloud.com/blog/jms-vs-kafka,3.5,Technology Vendor,"""Products"" and ""Pricing"" in menu."
+https://www.ultimate.ai/blog/ai-automation/how-nlp-text-based-chatbots-work,4,Technology Vendor,"Click on logo, page states ""Automate your customer service with the most powerful virtual agent platform."""
+https://www.upsolver.com/blog/popular-stream-processing-frameworks-compared,4.5,Technology Vendor,"About page states ""build and affordably run advanced cloud analytics workloads"". Has ""Products"" in menu."
+https://www.upsolver.com/blog/streaming-data-architecture-key-components,3,Technology Vendor,Same as above
+https://www.xspdf.com/resolution/55028460.html,3,Technology Vendor,"40 error. Click on logo, ""product"" in menu and page has ""purchase"" button."
+https://zapier.com/learn/apis/chapter-6-api-design/,4,Technology Vendor,"About page states ""Zapier empowers you to automate your work across 4,000+ apps?so you can move forward, faster."""
+https://marutitech.com/microservices-best-practices/,2,Technology Vendor,"Menu products lists ""bot development"".  Writing on page stating ""Looking for a FREE consultation? Let's connect. """
+https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/,3,Technology Vendor: analytics,"Click on logo, page states ""Modern Frontend Monitoring and Product Analytics?"
+https://blogs.sas.com/content/sasdach/2016/05/25/was-ist-ein-message-broker/,2,Technology Vendor: analytics,?About SAS? states ?SAS is the leader in analytics.?
+https://www.adverity.com/etl-data-integration-analytics-quality/,2,Technology Vendor: analytics,"Click on logo, page states ""Make insights-driven decisions faster and easier with the intelligent data and analytics platform for marketing, sales, and eCommerce teams."""
+https://oxylabs.io/blog/stock-market-data-how-to-scrape-it,2,Technology Vendor: API,"""pricing"" and ""apis"" in menu"
+https://rapidapi.com/blog/best-stock-api/,4,Technology Vendor: API,"Click on logo, page states ""RapidAPI is the world?s largest API Hub "". Multiple authors. "
+https://stoplight.io/blog/api-design-patterns-for-rest-web-services/,4,Technology Vendor: API,"404 error. ""About us"" page states ""Stoplight is a collaborative API design platform"""
+https://www.moesif.com/blog/api-guide/api-design-guidelines/,4,Technology Vendor: API,"Click on logo, page states ""Powerful API analytics and tools to help you activate, understand, and monetize customers"""
+https://www.scraping-bot.io/top-6-best-scraping-tools-to-collect-data-from-a-webpage/,3,Technology Vendor: API,"Bottom of page states ""Best web scraping APIs to extract HTML content without getting blocked."""
+https://auth0.com/blog/beating-json-performance-with-protobuf/,3,Technology Vendor: authentication,"Bottom of page, About us states ?extensible and easy-to-integrate platform? and ??identity management?. Googled ?What is Auth0 used for? Auth0 is a flexible, drop-in solution˜to add authentication and authorization services to your applications.?"
+https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud,2,Technology Vendor: authentication,"About Okta, menu, company, about us, ?simple and secure access to people and ?organizations ? protect the identities of our customers? workforce and users? "
+https://developer.okta.com/blog/2019/11/19/java-kafka,5,Technology Vendor: authentication,Same as above
+https://developer.okta.com/blog/2020/07/27/spring-boot-using-java-modules,3,Technology Vendor: authentication,Same as above
+https://www.informit.com/articles/article.aspx?p=1317547&seqNum=5,3.428571429,Technology Vendor: books,"Click on logo, page states ""We are the online presence of the family of information technology publishers and brands of Pearson"""
+https://www.informit.com/articles/article.aspx?p=1335648,4,Technology Vendor: books,Same as above
+https://www.informit.com/articles/article.aspx?p=1850815,4,Technology Vendor: books,Same as above
+https://www.informit.com/articles/article.aspx?p=2995357,3,Technology Vendor: books,Same as above
+https://www.informit.com/articles/article.aspx?p=31086&seqNum=5,4,Technology Vendor: books,Same as above
+https://blog.sap-press.com/how-to-use-the-apache-camel-framework-for-message-processing-in-sap,3,Technology Vendor: books,"Bottom of page ""About us?. Multiple authors. All articles relate to SAP. Run by a publishing company and book vendor. "
+https://enterprisebotmanager.com/a-breakdown-of-chatbot-architecture-and-how-it-works/,3,Technology Vendor: chatbots,Company elm stands for ?The Enterprise Chatbot Platform? 
+https://flow.ai/blog/kb-different-kinds-of-chatbots,2,Technology Vendor: chatbots,"Click logo, page states ""Intelligent Automation using bots?"
+https://www.tidio.com/blog/how-to-create-a-chatbot-for-a-website/,3,Technology Vendor: chatbots,"""Product"" and ""pricing"" in menu mentioning ""live operators"" and ""chatbots"""
+https://apprenda.com/library/architecture/types-of-middleware/,1.5,Technology Vendor: cloud,"Click on logo, page states ?One Platform for Cloud Native and Existing Applications?"
+https://aws.amazon.com/blogs/aws/all-your-data-fluentd/,3,Technology Vendor: cloud,"Bottom of page, What is AWS states ?Amazon Web Services? cloud platform?"
+https://blog.cloudera.com/flafka-apache-flume-meets-apache-kafka-for-event-processing/,4,Technology Vendor: cloud,"Bottom of page, About states ""Cloudera delivers a hybrid data cloud for any data, ?anywhere, across the entire data lifecycle.?"
+https://blog.datahut.co/scraping-nasdaq-news-using-python/,2,Technology Vendor: cloud,"Bottom of page, About states ""Datahut helps businesses get structured data feeds from ?any website through our cloud-based data as a service platform.˜?"
+https://blog.panoply.io/17-great-etl-tools-and-the-case-for-saying-no-to-etl,3,Technology Vendor: cloud,"Click on logo, title is ?Managed ELT + Cloud Data Warehouse?"
+https://blog.treasuredata.com/blog/2013/08/20/amazon-recommends-fluentd-as-best-practice-for-data-collection-over-flume-and-scribe/,2,Technology Vendor: cloud,?Offers cloud service for big data?
+https://blogs.informatica.com/2019/07/09/6-awesome-benefits-you-gain-by-using-an-integration-hub/,3,Technology Vendor: cloud,?About us?
+https://cloudonaut.io/versus/messaging/msk-vs-mq/,3,Technology Vendor: cloud,"Click on logo, page title ?Your launchpad for Amazon Web Services?"
+https://developers.redhat.com/blog/2016/08/02/the-hardest-part-about-microservices-your-data/,2,Technology Vendor: cloud,"Click logo, menu, states ?Read developer tutorials and download Red Hat software ?for cloud application development.?"
+https://developers.redhat.com/blog/2019/05/20/subsecond-deployment-and-startup-of-apache-camel-applications/,4,Technology Vendor: cloud,Same as above
+https://developers.redhat.com/blog/2020/01/10/architecting-messaging-solutions-with-apache-activemq-artemis/,3,Technology Vendor: cloud,Same as above
+https://epsagon.com/development/kafka-rabbitmq-or-kinesis-solution-comparison/,3.5,Technology Vendor: cloud,"Menu, product overview states ?Epsagon simplifies modern cloud application development?"
+https://logz.io/blog/fluentd-logstash/,4,Technology Vendor: cloud,"Click on logo page states ""END-TO-END CLOUD MONITORING BUILT FOR SCALE"""
+https://logz.io/blog/fluentd-vs-fluent-bit/,4,Technology Vendor: cloud,Same as above
+https://openliberty.io/blog/2018/06/29/full_java_ee_8_liberty_18002.html,2,Technology Vendor: cloud,"Click on logo, page states ""A lightweight open framework for building fast and efficient cloud-native Java microservices."""
+https://openliberty.io/guides/rest-client-java.html,4,Technology Vendor: cloud,"Click on logo, page states ""A lightweight open framework for building fast and efficient cloud-native Java microservices."""
+https://statsbot.co/blog/open-source-etl/,3,Technology Vendor: cloud,"Click on logo, page menu contains ""Product"" and states ""Cube Cloud is the fastest way to develop data applications"""
+https://tanzu.vmware.com/content/blog/understanding-when-to-use-rabbitmq-or-apache-kafka,4.052631579,Technology Vendor: cloud,"VMware Tanzu Developer. Googled VMware which states ""VMware, Inc. is an American cloud computing and virtualization technology company """
+https://wso2.com/library/articles/2019/12/asynchronous-message-based-communication/,3,Technology Vendor: cloud,"Click on logo, page states ""Introducing WSO2 Private Cloud"". ""Product"" in menu. "
+https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html,2,Technology Vendor: cloud,"Click on logo. Page has ""pricing anfd availability"" button. ""About"" page states ""dedicated to simplifying cloud infrastructure for developers. """
+https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html,4,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html,4,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2016-09-13-asynchronous-communication-with-rabbitmq.html,3,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2017-12-29-part1-rabbitmq-best-practice.html,3.75,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2018-01-08-part2-rabbitmq-best-practice-for-high-performance.html,3.75,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2018-12-10-real-world-rabbitmq-deployments.html,4,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2019-03-28-rabbitmq-quorum-queues.html,4,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html,4,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html,4.264705882,Technology Vendor: cloud,Same as above
+https://www.cloudamqp.com/blog/2020-04-03-why-use-rabbitmq-in-a-microservice-architecture.html,3.333333333,Technology Vendor: cloud,Same as above
+https://www.confluent.de/blog/analytics-with-apache-kafka-and-rockset/,4,Technology Vendor: cloud,"""Products"" menu mentions ""Confluent Cloud"",""Software: Confluent Platform"", ""Connectors"" and ""ksqlDB"""
+https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/,4,Technology Vendor: cloud,Same as above
+https://www.confluent.de/blog/event-streaming-platform-1/,4,Technology Vendor: cloud,Same as above
+https://www.confluent.io/blog/kafka-fastest-messaging-system/,3.833333333,Technology Vendor: cloud,Same as above
+https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/,4.5,Technology Vendor: cloud,Same as above
+https://www.confluent.io/blog/building-a-telegram-bot-powered-by-kafka-and-ksqldb/,3.666666667,Technology Vendor: cloud,Same as above
+https://www.datadoghq.com/blog/rabbitmq-monitoring/,3,Technology Vendor: cloud,"has ""product"" and ""pricing"" in menu.""About "" page states ""Datadog is the essential monitoring and security platform for cloud applications.""."
+https://www.lightbend.com/microservices/reactive-microservices-why-asynchronous-communication,4,Technology Vendor: cloud,"""About us"" page states ""make it simple to build distributed applications that span from the cloud to the edge and beyond."""
+https://divante.com/blog/what-are-microservices-introduction-to-microservice-architecture-for-ecommerce-2/,2.5,Technology Vendor: eCommerce,"Menu, about us, ""Divante is an eCommerce Technology Company."""
+https://www.bigcommerce.com/blog/microservices/,2.5,Technology Vendor: eCommerce,"Click logo, page states ""Start with the rock-solid foundation of a powerful ecommerce platform."""
+https://www.otto.de/jobs/technology/techblog/artikel/on-monoliths-and-microservices_2015-09-30.php,3,Technology Vendor: eCommerce,"German. Googled ""otto"" which stated ""one of the world's biggest e-commerce companies"""
+https://www.xplenty.com/blog/5-real-time-streaming-platforms-big-data/,1.833333333,Technology Vendor: eCommerce,"""product"" in menu. Click on logo, page states ""Data Warehouse Integration Platform Designed for E-commerce."""
+https://www.xplenty.com/blog/top-7-etl-tools/,3.333333333,Technology Vendor: eCommerce,"""product"" in menu. Click on logo, page states ""Data Warehouse Integration Platform Designed for E-commerce."""
+https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/,3,Technology vendor: finance,"Menu has ""credit cards"", ""checking and savings""etc. "
+https://developers.refinitiv.com/article/10-important-things-you-need-know-you-write-elektron-real-time-application,4,Technology Vendor: Finance,Googled ?refinitiv? which states ?Refinitiv˜provides financial software and risk solutions?
+https://developers.refinitiv.com/en/article-catalog/article/10-important-things-you-need-know-you-write-elektron-real-time-application,3.5,Technology Vendor: Finance,Same as above
+https://blog.infermedica.com/three-challenges-youre-going-to-face-when-building-a-chatbot/,3,Technology Vendor: healthcare,"Bottom of page, About states ?provide AI-driven support for health professionals?"
+https://blog.interfaceware.com/enterprise-integration-considerations-high-performance/,3,Technology Vendor: healthcare,?About us? states ?healthcare providers use our engine??
+https://blog.interfaceware.com/hl7-message-throughput-is-a-critical-metric-for-interface-engines/,3,Technology Vendor: healthcare,Same as above
+https://www.lyniate.com/knowledge-hub/modern-interface-engine/,2,Technology Vendor: healthcare,"404 error. ""products"", ""services"" and ""get a demo"" in menu. "
+https://www.sartorius.com/en/products/process-analytical-technology/data-analytics-software/real-time-process-monitoring-software,2,Technology Vendor: healthcare,"""About"" page states ""Partner of Life Science Research and the Biopharmaceutical Industry"""
+https://blogs.mulesoft.com/dev/microservice-design-principles/,3,Technology Vendor: integration,"Googled ?Mulesoft? which stated ?provides integration software for? connecting applications, data and devices.?"
+https://blogs.mulesoft.com/dev/microservices-dev/microservice-design-principles/,2,Technology Vendor: integration,Same as above
+https://blogs.opentext.com/b2b-integration-solution/,3,Technology Vendor: integration,?About us? page states ?integrated Information Management platform?
+https://businessnetwork.opentext.com/data-transformation-tools/,3,Technology Vendor: integration,Same company as number 88.
+https://cakeboxsolutions.com/middleware/,4,Technology Vendor: integration,"?About us? states ""Cakebox is a leading enterprise level integration solutions group ?"
+https://camel.apache.org/blog/2019/12/Camel3-Whatsnew/,2,Technology Vendor: integration,"Click on logo, page states ""Camel is an Open Source integration framework?"
+https://camel.apache.org/community/articles/,2.4,Technology Vendor: integration,Same as above
+https://camel.apache.org/community/user-stories/,2.5,Technology Vendor: integration,Same as above
+https://datavirtuality.com/blog-etl-tools-and-processes/,4,Technology Vendor: integration,"Menu, Company, Our mission, ?provides high-performance real-time data integration?"
+https://datavirtuality.de/lernen/ressourcen/ueberblick-ueber-die-etl-tools-und-prozesse-2019/,3,Technology Vendor: integration,Same as above
+https://www.mulesoft.com/resources/api/what-is-rest-api-design,3,Technology Vendor: integration,"""products"" in menu. Click on logo, page states ""Sign up for a free 30-day trial"" and ""MuleSoft?s Anypoint Platform? is the world?s leading integration platform"""
+https://www.mulesoft.com/resources/esb/integration-middleware-technology,2,Technology Vendor: integration,same as above
+https://www.mulesoft.com/resources/esb/mule-vs-camel-comparison,3,Technology Vendor: integration,same as above
+https://www.alooma.com/blog/etl-tools-comparison,2,Technology Vendor: integration,"Click on logo, page states ""Alooma has you covered with the world?s most powerful data integration platform."""
+https://blog.mi.hdm-stuttgart.de/index.php/2020/03/09/distributed-stream-processing-frameworks-what-they-are-and-how-they-perform/,3.6,University blog,German. ?Impressium? page mentions ?The Stuttgart Media University?
+https://blog.mi.hdm-stuttgart.de/index.php/2020/04/13/open-source-batch-and-stream-processing-realtime-analysis-of-big-data/,3,University blog,Same as above
+https://onlinemasters.ohio.edu/blog/big-data-analytics-tools/,3,University blog,"URL is "".edu"". Ohio university. "

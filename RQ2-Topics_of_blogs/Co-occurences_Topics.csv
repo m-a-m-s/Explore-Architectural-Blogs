@@ -1,0 +1,17 @@
+Co-occurence matrix,,,,,
+,List related solutions,Elaborate and evaluate a solution,How-to design,Compare solutions,How to implement
+Design using multiple technologies,4,13,5,5,0
+Design using patterns and components,43,46,37,15,4
+Compare and evaluate technologies,30,18,2,33,0
+Analyze decision factors,30,38,10,7,5
+Implement technologies and components design,5,16,18,17,49
+Achieve quality attributes using components design,6,36,20,39,14
+,,,,,
+Chi square values,,,,,
+,List related solutions,Elaborate and evaluate a solution,How-to design,Compare solutions,How to implement
+Design using multiple technologies,0.33,4.07,0,0,2.96
+Design using patterns and components,9,0,9,12,15
+Compare and evaluate technologies,13,2,13,19,12
+Analyze decision factors,10,8,2,10,4
+Implement technologies and components design,17,11,0,1,131
+Achieve quality attributes using components design,19,0,0,13,0

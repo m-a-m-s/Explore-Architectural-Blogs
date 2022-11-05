@@ -1,0 +1,28 @@
+Co-occurences between blog types and topics,,,,,,
+,Personal,Community blog,IT Service Company,Technology Vendor,Educational,Magazines and Newspapers
+Design using multiple technologies,2,14,3,1,4,0
+Design using patterns and components,21,79,18,20,4,0
+Compare and evaluate technologies,2,36,6,19,9,2
+Analyze decision factors,1,33,19,33,3,6
+Implement technologies and components design,35,33,12,15,2,1
+Achieve quality attributes using components design,23,40,8,40,0,0
+List related solutions,5,56,19,21,5,2
+Elaborate and evaluate a solution,23,61,15,51,6,3
+How-to design,17,47,12,16,3,1
+Compare solutions,22,47,14,23,6,0
+How to implement,26,19,3,16,2,0
+,,,,,,
+,,,,,,
+Chi square values,,,,,,
+,Personal,Community blog,IT Service Company,Technology Vendor,Educational,Magazines and Newspapers
+Design using multiple technologies,0.71,2.01,0,4.19,7.6,0
+Design using patterns and components,0.33,13.17,0.03,8.88,0.2,1.88
+Compare and evaluate technologies,10.86,1.13,0.79,0.09,13,0.1
+Analyze decision factors,18.78,2.3,6.25,7.1,0.02,12.76
+Implement technologies and components design,29.22,3.18,0,4,0.25,0
+Achieve quality attributes using components design,1.27,1.9,2.37,10.96,3.63,1.16
+List related solutions,13.87,4.35,3.94,0.96,0,0.1
+Elaborate and evaluate a solution,0.92,1.35,0.79,8.6,0,0.4
+How-to design,0,1.68,0,2.57,0,0
+Compare solutions,0,0,0,0,0,0
+How to implement,24.3,5,2.9,0,0,0

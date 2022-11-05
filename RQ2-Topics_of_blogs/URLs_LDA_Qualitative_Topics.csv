@@ -1,0 +1,629 @@
+URL,LDA Coherence,LDA Topic,Qualitative Topic
+https://www.infoq.com/articles/batch-etl-streams-kafka/,0.604564643,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.tutorialspoint.com/apache_camel/apache_camel_overview.htm,0.373345087,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.infoq.com/articles/HIgh-Performance-Parsers-in-Java-V2/,0.552713474,Design using multiple technologies,How-to design
+https://www.onlineinterviewquestions.com/list-the-design-patterns-used-by-rabbitmq/,0.841845482,Design using multiple technologies,List related solutions
+https://www.infoq.com/articles/rest-introduction/,0.472637499,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.springpeople.com/blog/4-message-brokers-you-need-to-know/,0.882146446,Design using multiple technologies,List related solutions
+https://www.infoq.com/articles/stream-processing-hadoop/,0.369179021,Design using multiple technologies,How-to design
+https://www.infoq.com/articles/web-api-design-methodology/,0.743339887,Design using multiple technologies,How-to design
+https://www.tutorialspoint.com/microservice_architecture/index.htm,0.701620117,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.infoq.com/news/2014/06/hazelcastmq-v1-0-0/,0.934824107,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.javacodegeeks.com/2019/07/json-and-xml-how-do-they-compare.html,0.311566109,Design using multiple technologies,Compare solutions
+https://www.infoq.com/articles/advanced-architecture-aspnet-core/,0.584665813,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.infoq.com/articles/apache-kafka/,0.444892716,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.infoq.com/articles/eai-with-apache-camel/,0.402289705,Design using multiple technologies,How-to design
+https://www.infoq.com/articles/modular-java-what-is-it/,0.592772536,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.infoq.com/news/2018/06/decomposing-system-microservices/,0.694026993,Design using multiple technologies,Compare solutions
+https://www.infoq.com/articles/video-stream-analytics-opencv/,0.374746216,Design using multiple technologies,How-to design
+https://www.springpeople.com/blog/data-warehousing-essentials-what-is-etl-tool-what-are-its-benefits/,0.773933281,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.edureka.co/blog/apache-flume-tutorial/,0.709370054,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.edureka.co/blog/microservice-architecture/,0.565952842,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.janbasktraining.com/blog/what-is-flume/,0.502035754,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.edureka.co/community/83239/difference-between-synchronous-and-asynchronous-api-calls,0.795785289,Design using multiple technologies,Compare solutions
+https://vironit.com/comparison-of-activemq-rabbitmq-and-zeromq-message-oriented-middleware/,0.346437042,Design using multiple technologies,Compare solutions
+https://www.scnsoft.com/blog/microservices-architecture-java-example,0.784933984,Design using multiple technologies,Elaborate and evaluate a solution
+https://www.javaguides.net/2018/06/restful-api-design-best-practices.html,0.460944421,Design using multiple technologies,List related solutions
+https://adambien.blog/roller/abien/entry/websphere_application_server_version_8,0.381729346,Design using multiple technologies,List related solutions
+https://cloudonaut.io/versus/messaging/msk-vs-mq/,0.329805775,Design using multiple technologies,Compare solutions
+https://objectcomputing.com/resources/publications/mnb,0.989380255,Design using multiple technologies,
+https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8,0.700393893,Design using patterns and components,List related solutions
+https://www.educative.io/blog/how-to-design-a-web-application-software-architecture-101,0.751593535,Design using patterns and components,How-to design
+https://dzone.com/articles/concise-comparison-rabbitmq,0.629044875,Design using patterns and components,Compare solutions
+https://dzone.com/articles/microservice-testing-coupling-and-cohesion-all-the,0.964518656,Design using patterns and components,How-to design
+https://marutitech.com/microservices-best-practices/,0.748726696,Design using patterns and components,List related solutions
+https://hackr.io/blog/web-application-architecture-definition-models-types-and-more,0.799305931,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/@joetilley/i-am-using-dialogflow-as-my-nlp-engine-for-my-chatbot-c9f707f2f72d,0.596977582,Design using patterns and components,
+https://www.devbridge.com/articles/a-6-point-plan-for-implementing-a-scalable-microservices-architecture/,0.652694519,Design using patterns and components,How-to design
+https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011,0.693764476,Design using patterns and components,How-to design
+https://medium.com/@rashmishehana_48965/middleware-technologies-e5def95da4e,0.825461591,Design using patterns and components,List related solutions
+https://priyalwalpita.medium.com/coupling-and-cohesion-in-microservices-235ed9203843,0.825435875,Design using patterns and components,List related solutions
+https://highcohesionloosecoupling.com/index.php/tag/microservices/,0.505995451,Design using patterns and components,How-to design
+https://sites.google.com/a/mammatustech.com/mammatusmain/java-microservices-architecture,0.520232693,Design using patterns and components,How-to design
+https://xebia.com/blog/microservices-architecture-principle-4-asynchronous-communication-over-synchronous-communication/,0.619379428,Design using patterns and components,Compare solutions
+https://dzone.com/articles/java-microservices-code-examples-tutorials-and-more,0.460823658,Design using patterns and components,How to implement
+https://dzone.com/articles/what-is-web-application-architecture,0.867476266,Design using patterns and components,List related solutions
+https://dzone.com/articles/native-vs-hybrid-vs-cross-platform-how-and-what-to,0.600327979,Design using patterns and components,Compare solutions
+https://dzone.com/articles/microservice-architecture-best-practices-messaging,0.967775531,Design using patterns and components,Elaborate and evaluate a solution
+https://zeekat.nl/articles/mvc-for-the-web.html,0.694191271,Design using patterns and components,Elaborate and evaluate a solution
+https://www.linkedin.com/pulse/microservice-communication-arpit-jain,0.569476205,Design using patterns and components,Compare solutions
+https://www.javacodegeeks.com/2014/06/microservice-architecture-a-quick-guide.html,0.858486006,Design using patterns and components,Elaborate and evaluate a solution
+https://www.infoq.com/articles/microservices-design-ideals/,0.512704577,Design using patterns and components,How-to design
+https://dzone.com/articles/implementing-micro-services-architecture-for-build,0.798603765,Design using patterns and components,How-to design
+https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/,0.771092703,Design using patterns and components,List related solutions
+https://www.freecodecamp.org/news/an-introduction-to-microservices-2705e7758f9/,0.713831487,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/10-best-practices-for-microservice-architectures,0.895372142,Design using patterns and components,How-to design
+https://ngkester123.medium.com/design-patterns-for-microservices-9340b72407bb,0.933402307,Design using patterns and components,List related solutions
+https://dzone.com/articles/microservices-architecture-what-when-how,0.92356627,Design using patterns and components,Elaborate and evaluate a solution
+https://www.seasiainfotech.com/blog/native-vs-hybrid-vs-cross-platform-apps/,0.537776854,Design using patterns and components,Compare solutions
+https://dzone.com/articles/design-patterns-for-microservice-communication,0.914492307,Design using patterns and components,List related solutions
+https://jaxenter.com/introduction-microservices-java-136067.html ,0.562351344,Design using patterns and components,How-to design
+https://www.lightbend.com/microservices/reactive-microservices-why-asynchronous-communication,0.488140837,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/oracledevs/data-consistency-among-microservices-is-it-possible-fe48938235d1,0.638960436,Design using patterns and components,How-to design
+https://www.guru99.com/microservices-tutorial.html,0.454052453,Design using patterns and components,Compare solutions
+https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/,0.900212051,Design using patterns and components,List related solutions
+https://blog.dreamfactory.com/the-importance-of-loose-coupling-in-rest-api-design/,0.727504021,Design using patterns and components,Elaborate and evaluate a solution
+https://www.informit.com/articles/article.aspx?p=31086&seqNum=5,0.449924426,Design using patterns and components,List related solutions
+https://dzone.com/articles/patterns-for-microservices-sync-vs-async,0.838504186,Design using patterns and components,Compare solutions
+https://dzone.com/articles/communicating-between-microservices,0.698484032,Design using patterns and components,List related solutions
+https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/,0.335000326,Design using patterns and components,List related solutions
+https://patterns.arcitura.com/service-api-patterns/fundamental-service-api-patterns/service-decomposition,0.422358132,Design using patterns and components,Elaborate and evaluate a solution
+https://www.w3.org/DesignIssues/Principles.html,0.672514438,Design using patterns and components,List related solutions
+https://www.dineshonjava.com/application-decomposition-to-microservice/,0.832428628,Design using patterns and components,How-to design
+https://dzone.com/articles/how-to-parse-json-data-from-a-rest-api-using-simpl,0.459575589,Design using patterns and components,How to implement
+https://dzone.com/articles/an-overview-of-kafka-distributed-message-system,0.471197611,Design using patterns and components,Elaborate and evaluate a solution
+https://www.theserverside.com/feature/Can-a-pattern-become-an-anti-pattern-How-to-avoid-the-loose-coupling-mistake,0.797781994,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/kafka-queuing-kafka-as-a-messaging-system,0.718340123,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/design-patterns-for-microservices-1,0.930185826,Design using patterns and components,List related solutions
+https://dzone.com/articles/from-e-commerce-platforms-to-microservices-omni-co,0.796426485,Design using patterns and components,How-to design
+https://www.intellectsoft.net/blog/web-application-architecture/,0.772111322,Design using patterns and components,List related solutions
+https://dzone.com/articles/asynchronous-messaging-rabbitmq-introduction,0.567739107,Design using patterns and components,Elaborate and evaluate a solution
+https://opensource.com/article/18/4/guide-design-microservices,0.671798378,Design using patterns and components,List related solutions
+https://www.devteam.space/blog/10-best-practices-for-building-a-microservice-architecture/,0.832223635,Design using patterns and components,List related solutions
+https://medium.com/swlh/the-principles-of-planning-and-implementing-microservices-3cb0eb76c172,0.506833631,Design using patterns and components,How-to design
+https://anarsolutions.com/top-8-architectural-principles-for-designing-modern-web-applications/,0.847011875,Design using patterns and components,List related solutions
+https://microservices.io/patterns/apigateway.html,0.94241828,Design using patterns and components,Elaborate and evaluate a solution
+https://www.codementor.io/@goetas/modular-application-architecture-considerations-on-design-patterns-flmx1m731,0.513700383,Design using patterns and components,How-to design
+https://specify.io/concepts/microservices,0.857102558,Design using patterns and components,Elaborate and evaluate a solution
+https://www.bennadel.com/blog/3504-microservices-patterns-with-examples-in-java-by-chris-richardson.htm,0.704776665,Design using patterns and components,How-to design
+https://martinfowler.com/articles/microservices.html,0.813682964,Design using patterns and components,Elaborate and evaluate a solution
+https://dearsikandarkhan.medium.com/microservices-architecture-for-e-commerce-f8b49270e72f,0.799929567,Design using patterns and components,How-to design
+https://www.webforefront.com/performance/scaling101.html,0.701121775,Design using patterns and components,How-to design
+https://about.gitlab.com/blog/2019/06/17/strategies-microservices-architecture/,0.789646323,Design using patterns and components,List related solutions
+https://danielbryantuk.medium.com/microservice-testing-coupling-and-cohesion-all-the-way-down-b84dacf8cff0,0.926098061,Design using patterns and components,How-to design
+https://dzone.com/articles/a-look-at-rest-api-design-patterns,0.801975787,Design using patterns and components,List related solutions
+https://dzone.com/articles/rest-api-best-practices-with-design-examples-from,0.583941807,Design using patterns and components,How-to design
+https://freecontent.manning.com/strategies-for-decomposing-an-application-into-services/,0.918279308,Design using patterns and components,How-to design
+https://www.informit.com/articles/article.aspx?p=2995357,0.710963726,Design using patterns and components,How-to design
+https://dzone.com/articles/frameworks-and-products-big-data-log-analytics-log,0.444669837,Design using patterns and components,List related solutions
+https://www.informit.com/articles/article.aspx?p=1317547&seqNum=5,0.707265967,Design using patterns and components,Elaborate and evaluate a solution
+https://www.edureka.co/blog/microservices-design-patterns,0.479192134,Design using patterns and components,List related solutions
+https://www.javatpoint.com/restful-web-services-architecture-of-web-services,0.454049694,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/it-dead-inside/isolating-your-microservices-through-loose-coupling-48b710e28de6,0.675669622,Design using patterns and components,How-to design
+https://chrisrichardson.net/post/refactoring/2020/08/21/ten-principles-for-refactoring-to-microservices.html,0.720753725,Design using patterns and components,List related solutions
+https://dzone.com/articles/how-to-make-microservices-communicate,0.779577917,Design using patterns and components,List related solutions
+https://medium.com/@kmdkhadeer/microservices-best-practices-5fe3e28394b3,0.993514145,Design using patterns and components,How-to design
+https://techbeacon.com/app-dev-testing/5-fundamentals-successful-microservice-design,0.708577731,Design using patterns and components,List related solutions
+https://solace.com/blog/eventual-consistency-in-microservices/,0.457503944,Design using patterns and components,How-to design
+https://microservices.io/patterns/communication-style/rpi.html,0.923161784,Design using patterns and components,Elaborate and evaluate a solution
+https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/,0.889275033,Design using patterns and components,Elaborate and evaluate a solution
+https://www.javacodegeeks.com/2016/05/components-involved-creating-robust-micro-service-architecture.html,0.563104174,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/design-and-tech-co/implementing-domain-driven-design-for-microservice-architecture-26eb0333d72e,0.879140562,Design using patterns and components,How-to design
+https://dev.to/azaleamollis/solid-design-principles-building-stable-and-flexible-systems--2ph7,0.620286053,Design using patterns and components,List related solutions
+https://www.mulesoft.com/resources/api/what-is-rest-api-design,0.526771085,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/how-to-practically-implement-microservices-infrast,0.839456745,Design using patterns and components,How-to design
+https://www.otto.de/jobs/technology/techblog/artikel/on-monoliths-and-microservices_2015-09-30.php,0.751851725,Design using patterns and components,How-to design
+https://restfulapi.net/,0.43467931,Design using patterns and components,Elaborate and evaluate a solution
+https://www.ben-morris.com/why-rest-is-not-a-silver-bullet-for-soa-and-microservice-integration/,0.860231336,Design using patterns and components,Elaborate and evaluate a solution
+https://www.linkedin.com/pulse/loose-coupling-microservice-architecture-patrick-van-vuuren,0.693270946,Design using patterns and components,How-to design
+https://www.redhat.com/en/blog/intro-scalability,0.416406074,Design using patterns and components,List related solutions
+https://dzone.com/articles/apache-camel-the-powerful-client-for-salesforce-da,0.577695333,Design using patterns and components,How-to design
+https://www.hossambarakat.net/2017/11/11/microservices-coupling-with-synchronous-integration/,0.655702299,Design using patterns and components,How to implement
+https://dzone.com/refcardz/patterns-modular-architecture,0.886339991,Design using patterns and components,List related solutions
+https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design,0.973311462,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/dealing-with-json-in-a-new-way,0.440512938,Design using patterns and components,Elaborate and evaluate a solution
+https://headspring.com/2018/08/24/principles-for-microservices-integration/,0.809858815,Design using patterns and components,
+https://dzone.com/articles/apache-kafka-vs-integration-middleware-mq-etl-esb,0.424431259,Design using patterns and components,Compare solutions
+https://devopedia.org/cohesion-vs-coupling,0.765616057,Design using patterns and components,Compare solutions
+https://medium.com/@diogo.lucas/communication-patterns-in-a-microservice-world-af07192b12d3,0.513958672,Design using patterns and components,List related solutions
+https://dzone.com/articles/data-consistency-in-microservices-architecture,0.789377867,Design using patterns and components,Elaborate and evaluate a solution
+https://www.infoworld.com/article/2632681/service-oriented-architecture-getting-service-decomposition-right.html,0.536256584,Design using patterns and components,List related solutions
+https://dzone.com/articles/introduction-to-message-brokers-part-2-activemq-vs,0.475748332,Design using patterns and components,Compare solutions
+https://dzone.com/articles/design-patterns-for-microservices,0.948004497,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/microservice-architecture-and-design-patterns-for,0.944156608,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a,0.904293872,Design using patterns and components,Elaborate and evaluate a solution
+https://reflectoring.io/microservice-communication-patterns/,0.578170616,Design using patterns and components,List related solutions
+https://medium.com/the-sixt-india-blog/microservice-communication-53cbc93cf4de,0.589220807,Design using patterns and components,Compare solutions
+https://www.informit.com/articles/article.aspx?p=1850815,0.535238101,Design using patterns and components,
+https://www.infoq.com/articles/microservices-intro/,0.593796814,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/microservices-design-principles,0.981199133,Design using patterns and components,List related solutions
+https://dzone.com/articles/microservices-in-practice-1,0.779848856,Design using patterns and components,How to implement
+https://dzone.com/articles/stans-robot-shop-a-sample-microservice-application,0.430360566,Design using patterns and components,How-to design
+https://dzone.com/articles/the-importance-of-loose-coupling-in-rest-api-desig,0.871013269,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9,0.848673294,Design using patterns and components,Elaborate and evaluate a solution
+https://medium.com/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31,0.82112969,Design using patterns and components,List related solutions
+https://walkingtreetech.medium.com/versioning-management-in-microservices-8221ec592499,0.424887093,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/what-is-data-streaming,0.483270342,Design using patterns and components,Elaborate and evaluate a solution
+https://dzone.com/articles/when-use-apache-camel,0.353657116,Design using patterns and components,Compare solutions
+https://www.clariontech.com/blog/5-best-technologies-to-build-microservices-architecture,0.435130456,Design using patterns and components,List related solutions
+http://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html,0.74118588,Design using patterns and components,How-to design
+https://codingsans.com/blog/microservice-architecture-best-practices,0.873791901,Design using patterns and components,List related solutions
+https://www.chakray.com/microservices-communication-methods-types-and-styles/,0.435824943,Design using patterns and components,List related solutions
+https://info.nl/en/conversation/the-importance-of-loose-coupling-in-microservice-architecture/,0.841604152,Design using patterns and components,Compare solutions
+https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api,0.367197197,Design using patterns and components,List related solutions
+https://www.unifiedinfotech.net/blog/web-application-architecture-principles-explained/,0.693710572,Design using patterns and components,List related solutions
+https://www.innoq.com/de/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/,0.523624652,Design using patterns and components,Compare solutions
+https://railsware.com/blog/native-vs-hybrid-vs-cross-platform/,0.561237592,Design using patterns and components,Compare solutions
+https://microservices.io/patterns/,0.998657,Design using patterns and components,How-to design
+https://microservices.io/patterns/decomposition/decompose-by-business-capability.html,0.998421285,Design using patterns and components,How-to design
+https://blog.todotnet.com/2017/07/design-patterns-for-microservices/,0.848175966,Design using patterns and components,List related solutions
+https://martinfowler.com/articles/break-monolith-into-microservices.html,0.94423272,Design using patterns and components,How-to design
+https://www.marcobehler.com/guides/java-microservices-a-practical-guide,0.380034931,Design using patterns and components,Elaborate and evaluate a solution
+https://microservices.io/patterns/microservices.html,0.999205119,Design using patterns and components,Elaborate and evaluate a solution
+https://www.javatpoint.com/microservices,0.509978439,Design using patterns and components,Elaborate and evaluate a solution
+https://herbertograca.com/2017/01/26/microservices-architecture/,0.894754387,Design using patterns and components,Elaborate and evaluate a solution
+https://nordicapis.com/all-you-need-to-know-about-rest-api-design/,0.557064513,Design using patterns and components,Elaborate and evaluate a solution
+https://examples.javacodegeeks.com/design-patterns-for-microservices/,0.694496632,Design using patterns and components,List related solutions
+https://www.ibm.com/cloud/blog/rapidly-developing-applications-part-6-exposing-and-versioning-apis,0.621630592,Design using patterns and components,How-to design
+https://nordicapis.com/microservices-architecture-the-good-the-bad-and-what-you-could-be-doing-better/,0.950364805,Design using patterns and components,Elaborate and evaluate a solution
+https://www.ibm.com/blogs/cloud-archive/2015/03/sample-application-using-microservices-bluemix/,0.320145721,Design using patterns and components,How-to design
+https://datarespons.com/distributed-monitoring-control-using-dds/,0.259257426,Design using patterns and components,
+https://wso2.com/whitepapers/microservices-in-practice-key-architectural-concepts-of-an-msa/,0.673736633,Design using patterns and components,Elaborate and evaluate a solution
+https://www.lambdatest.com/blog/design-patterns-for-micro-service-architecture/,0.755644027,Design using patterns and components,List related solutions
+https://blog.payara.fish/microservices-for-java-ee-developers2,0.453337833,Design using patterns and components,Elaborate and evaluate a solution
+https://www.astera.com/type/blog/rest-api-definition/,0.528498014,Design using patterns and components,Elaborate and evaluate a solution
+https://www.moesif.com/blog/api-guide/api-design-guidelines/,0.462300131,Design using patterns and components,List related solutions
+https://www.informit.com/articles/article.aspx?p=1335648,0.539078279,Design using patterns and components,Elaborate and evaluate a solution
+https://www.cloudamqp.com/blog/2020-04-03-why-use-rabbitmq-in-a-microservice-architecture.html,0.522767446,Design using patterns and components,Elaborate and evaluate a solution
+https://apprenda.com/library/architecture/types-of-middleware/,0.435770703,Design using patterns and components,List related solutions
+https://findanyanswer.com/how-does-talend-work-with-hadoop,0.79301823,Compare and evaluate technologies,
+https://www.theseattledataguy.com/kafka-vs-rabbitmq-why-use-kafka/,0.393225054,Compare and evaluate technologies,Compare solutions
+https://dzone.com/articles/open-source-etl-tools-comparison,0.687013298,Compare and evaluate technologies,List related solutions
+https://www.dnsstuff.com/log-aggregation-best-tools-and-practices,0.485416611,Compare and evaluate technologies,List related solutions
+https://www.educba.com/activemq-vs-rabbitmq/,0.984570201,Compare and evaluate technologies,Compare solutions
+https://www.guru99.com/best-etl-tools.html,0.748286445,Compare and evaluate technologies,Compare solutions
+https://www.scrapehero.com/best-data-management-etl-tools/,0.642467931,Compare and evaluate technologies,Compare solutions
+https://medium.com/thg-tech-blog/a-feather-in-their-caps-4c4083cf9f46,0.388139266,Compare and evaluate technologies,Compare solutions
+https://medium.com/@rinu.gour123/difference-between-rabbitmq-kafka-afa7bdd79c8e,0.447945175,Compare and evaluate technologies,Compare solutions
+https://opensource.com/article/18/9/open-source-log-aggregation-tools,0.468463039,Compare and evaluate technologies,List related solutions
+https://opensource.com/article/19/4/log-analysis-tools,0.416298106,Compare and evaluate technologies,List related solutions
+https://www.opensourceforu.com/2015/12/an-introduction-to-apache-activemq/,0.319801165,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://camel.apache.org/community/user-stories/,0.371552691,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://hevodata.com/learn/best-elt-tools/,0.700494016,Compare and evaluate technologies,Compare solutions
+https://www.educba.com/kafka-alternatives/,0.68606434,Compare and evaluate technologies,Compare solutions
+https://www.geeksforgeeks.org/difference-between-apache-kafka-and-apache-flume/,0.479079753,Compare and evaluate technologies,Compare solutions
+https://thenewstack.io/apache-streaming-projects-exploratory-guide/,0.553783245,Compare and evaluate technologies,List related solutions
+https://anubala.medium.com/components-of-microservices-architecture-for-beginners-7b2ebc4e45c6,0.645997239,Compare and evaluate technologies,List related solutions
+https://thenewstack.io/kafka-alternative-pulsar-unifies-streaming-and-queuing/,0.377723799,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://stackify.com/what-are-microservices/,0.41890996,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.educba.com/activemq-vs-kafka/,0.999389942,Compare and evaluate technologies,Compare solutions
+https://opensource.com/article/20/2/real-time-data-processing,0.334485516,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://hevodata.com/blog/best-etl-tools-data-warehouse/,0.659912109,Compare and evaluate technologies,List related solutions
+https://dzone.com/articles/top-5-enterprise-etl-tools,0.498156474,Compare and evaluate technologies,Compare solutions
+https://www.syslog-ng.com/products/open-source-log-management/,0.501417161,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://logz.io/blog/fluentd-logstash/,0.447663134,Compare and evaluate technologies,Compare solutions
+https://www.educba.com/apache-kafka-vs-flume/,0.999438796,Compare and evaluate technologies,Compare solutions
+https://medium.com/world-of-iot/93-understanding-the-basics-of-any-iot-data-pipeline-from-ingress-capture-to-processing-to-7538a5632478,0.512982249,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://dzone.com/articles/evaluating-message-brokers-kafka-vs-kinesis-vs-sqs,0.354725653,Compare and evaluate technologies,Compare solutions
+https://www.tutorialspoint.com/apache_flume/apache_flume_introduction.htm,0.675653125,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://data-flair.training/blogs/advantages-and-disadvantages-of-kafka/,0.586665967,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.javatpoint.com/apache-kafka-advantages-and-disadvantages,0.559942259,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.tutorialspoint.com/difference-between-apache-kafka-and-flume,0.747452516,Compare and evaluate technologies,Compare solutions
+https://data-flair.training/blogs/flume-features-limitations/,0.827027623,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://blog.mi.hdm-stuttgart.de/index.php/2020/03/09/distributed-stream-processing-frameworks-what-they-are-and-how-they-perform/,0.43786459,Compare and evaluate technologies,Compare solutions
+https://datawarehouseinfo.com/etl-vs-elt-transform-first-or-transform-later/,0.548062935,Compare and evaluate technologies,Compare solutions
+https://dzone.com/articles/big-data-ingestion-flume-kafka-and-nifi,0.565423602,Compare and evaluate technologies,Compare solutions
+https://techvidvan.com/tutorials/apache-flume-tutorial/,0.701841459,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.whizlabs.com/blog/real-time-data-streaming-tools/,0.473430498,Compare and evaluate technologies,List related solutions
+https://streamsets.com/blog/five-ways-to-scale-kafka-with-streamsets/,0.589038976,Compare and evaluate technologies,How-to design
+https://shadow-soft.com/middleware-software-tools/,0.493116234,Compare and evaluate technologies,List related solutions
+https://www.educba.com/apache-flume/,0.674096276,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.synopsys.com/blogs/software-security/json-license-limitations/,0.460003389,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.loggly.com/blog/loggly-loves-apache-kafka-use-unbreakable-messaging-better-log-management/,0.405374189,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://logz.io/blog/open-source-siem-tools/,0.589238184,Compare and evaluate technologies,List related solutions
+https://www.tek-tools.com/apm/best-log-aggregator-tools,0.674243666,Compare and evaluate technologies,List related solutions
+https://www.kdnuggets.com/2016/03/top-big-data-processing-frameworks.html,0.501766878,Compare and evaluate technologies,List related solutions
+https://dzone.com/articles/2018-etl-tools-comparison-1,0.492785549,Compare and evaluate technologies,List related solutions
+https://opensource.com/business/16/11/open-source-dashboard-tools-visualizing-data,0.369851339,Compare and evaluate technologies,List related solutions
+https://dzone.com/articles/apache-flume-and-data-pipelines,0.660356009,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.programmersought.com/article/62704054981/,0.446818131,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://hub.packtpub.com/common-big-data-design-patterns/,0.288770014,Compare and evaluate technologies,List related solutions
+https://medium.com/@spats/flume-vs-kafka-110e13f6a7e3,0.507792805,Compare and evaluate technologies,Compare solutions
+https://www.programmersought.com/article/11231022901/,0.50806088,Compare and evaluate technologies,Compare solutions
+https://dzone.com/articles/introduction-to-message-brokers-part-1-apache-kafk,0.348137541,Compare and evaluate technologies,Compare solutions
+https://medium.com/softkit/introduction-to-message-brokers-part-2-activemq-vs-redis-pub-sub-fdaef1ca95d3,0.462897753,Compare and evaluate technologies,Compare solutions
+https://www.programmersought.com/article/8810191627/,0.38398513,Compare and evaluate technologies,Compare solutions
+https://solutionsreview.com/data-integration/top-free-and-open-source-etl-tools-for-data-integration/,0.515540973,Compare and evaluate technologies,List related solutions
+https://polestarsolutions.medium.com/top-7-open-source-big-data-tools-in-2020-fb531e8dc41f,0.440203381,Compare and evaluate technologies,List related solutions
+https://pediaa.com/what-is-the-difference-between-activemq-and-rabbitmq/,0.781161988,Compare and evaluate technologies,Compare solutions
+https://www.guru99.com/data-integration-tools.html,0.765089342,Compare and evaluate technologies,List related solutions
+https://www.softwaretestinghelp.com/best-etl-tools/,0.636698508,Compare and evaluate technologies,List related solutions
+https://www.softwaretestinghelp.com/big-data-tools/,0.658646026,Compare and evaluate technologies,List related solutions
+https://www.guru99.com/big-data-tools.html,0.855251921,Compare and evaluate technologies,List related solutions
+https://www.softwaretestinghelp.com/log-management-software/,0.520039849,Compare and evaluate technologies,List related solutions
+https://www.knowledgehut.com/blog/big-data/kafka-vs-spark,0.367370877,Compare and evaluate technologies,Compare solutions
+https://www.knowledgehut.com/blog/big-data/5-best-data-processing-frameworks,0.599542068,Compare and evaluate technologies,List related solutions
+https://www.mastersindatascience.org/resources/open-source-tools-for-big-data-analysis/,0.608613764,Compare and evaluate technologies,List related solutions
+https://www.openlogic.com/blog/activemq-vs-rabbitmq,0.739963244,Compare and evaluate technologies,Compare solutions
+https://freshcodeit.com/blog-introduction-to-message-brokers-part-1-apache-kafka-vs-rabbitmq,0.304145985,Compare and evaluate technologies,Compare solutions
+https://www.algoworks.com/blog/real-time-data-streaming-tools-and-technologies/,0.728892567,Compare and evaluate technologies,List related solutions
+https://analyticsindiamag.com/top-9-etl-tools-for-data-integration-in-2020/,0.44394124,Compare and evaluate technologies,List related solutions
+https://www.predic8.com/activemq-hornetq-rabbitmq-apollo-qpid-comparison.htm,0.426671551,Compare and evaluate technologies,Compare solutions
+https://stackify.com/top-11-json-performance-usage-tips/,0.451715297,Compare and evaluate technologies,List related solutions
+https://www.upsolver.com/blog/streaming-data-architecture-key-components,0.446347219,Compare and evaluate technologies,Elaborate and evaluate a solution
+https://www.upsolver.com/blog/popular-stream-processing-frameworks-compared,0.760000131,Compare and evaluate technologies,Compare solutions
+https://hevodata.com/learn/best-big-data-etl-tools/,0.678757422,Compare and evaluate technologies,List related solutions
+https://www.snowflake.com/blog/designing-modern-big-data-streaming-architectures-at-scale-part-one/?lang=de,0.38882614,Compare and evaluate technologies,How-to design
+https://www.stitchdata.com/vs/informatica/streamsets/,0.689886981,Compare and evaluate technologies,Compare solutions
+https://logz.io/blog/fluentd-vs-fluent-bit/,0.592312146,Compare and evaluate technologies,Compare solutions
+https://blog.panoply.io/17-great-etl-tools-and-the-case-for-saying-no-to-etl,0.553315086,Compare and evaluate technologies,List related solutions
+https://www.alooma.com/blog/etl-tools-comparison,0.53828961,Compare and evaluate technologies,Compare solutions
+https://data-flair.training/blogs/best-big-data-analytics-tools/,0.380213057,Compare and evaluate technologies,Compare solutions
+https://blog.mi.hdm-stuttgart.de/index.php/2020/04/13/open-source-batch-and-stream-processing-realtime-analysis-of-big-data/,0.503462219,Compare and evaluate technologies,List related solutions
+https://www.punchout2go.com/blog-posts/fast-and-scalable-b2b-automation-managed-integration-layer/,0.516221699,Analyze decision factors,
+https://online.visual-paradigm.com/diagrams/templates/enterprise-integration-patterns/sprint-integration-and-apache-camel/,0.492290075,Analyze decision factors,
+https://resources.sun-associates.com/eval/data.html,0.664153155,Analyze decision factors,
+https://discover.bot/bot-talk/,0.764607804,Analyze decision factors,
+https://blog.vsoftconsulting.com/blog/understanding-the-architecture-of-conversational-chatbot,0.506600446,Analyze decision factors,Elaborate and evaluate a solution
+https://www.scraping-bot.io/top-6-best-scraping-tools-to-collect-data-from-a-webpage/,0.437470696,Analyze decision factors,List related solutions
+https://markets.businessinsider.com/news/stocks/global-middleware-market-2017-2021-1004670326,0.655093835,Analyze decision factors,List related solutions
+https://www.astera.com/type/blog/etl-tools-and-what-is-etl/,0.460850908,Analyze decision factors,How-to design
+https://www.graylog.org/post/log-analysis-and-the-challenge-of-processing-big-data,0.676543845,Analyze decision factors,Elaborate and evaluate a solution
+https://rapidapi.com/blog/best-stock-api/,0.686713839,Analyze decision factors,List related solutions
+https://businessnetwork.opentext.com/data-transformation-tools/,0.723700262,Analyze decision factors,Elaborate and evaluate a solution
+https://stackify.com/best-log-management-tools/,0.481905688,Analyze decision factors,List related solutions
+https://www.sartorius.com/en/products/process-analytical-technology/data-analytics-software/real-time-process-monitoring-software,0.684655583,Analyze decision factors,Elaborate and evaluate a solution
+https://www.alibabacloud.com/blog/alibaba-cloud-realtime-compute-for-apache-flink-provides-solutions-for-the-financial-industry_596848,0.452375009,Analyze decision factors,Elaborate and evaluate a solution
+https://www.techrepublic.com/article/three-useful-tools-for-big-data-log-analysis/,0.647200128,Analyze decision factors,List related solutions
+https://wp.nyu.edu/qids/2020/06/23/best-stock-api-2020/,0.659841261,Analyze decision factors,List related solutions
+https://amplitude.com/real-time-analytics,0.610223028,Analyze decision factors,How-to design
+https://www.predictiveanalyticstoday.com/top-open-source-commercial-stream-analytics-platforms/,0.751167838,Analyze decision factors,List related solutions
+https://blogs.worldbank.org/dev4peace/exploiting-full-potential-new-technologies-data-collection-monitoring-and-conflict-prevention,0.679900794,Analyze decision factors,How-to design
+https://www.prnewswire.com/news-releases/the-big-data-industry-to-2025---market-leading-companies-rapidly-integrating-big-data-technologies-with-iot-infrastructure-301026880.html,0.849430229,Analyze decision factors,Solution trend and market analysis
+https://dzone.com/articles/big-data-integration,0.56049204,Analyze decision factors,How-to design
+https://medium.com/@jjsham/building-stock-price-dashboard-with-plotly-dash-part-i-b165b3edfdd6,0.641614531,Analyze decision factors,
+https://www.linkedin.com/pulse/wondering-how-apache-kafka-different-compared-other-manish,0.279630386,Analyze decision factors,Elaborate and evaluate a solution
+https://www.globenewswire.com/news-release/2020/11/10/2123587/0/en/Global-Big-Data-in-Telecom-Analytics-Market-Report-2020-Over-22-of-Carrier-App-Value-Will-be-Enabled-via-Big-Data-by-2025.html,0.973767979,Analyze decision factors,Solution trend and market analysis
+https://www.eckerson.com/articles/planning-your-data-architecture-for-streaming-analytics,0.70204735,Analyze decision factors,How-to design
+https://www.dnsstuff.com/log-monitoring-tools,0.606549374,Analyze decision factors,List related solutions
+https://www.transparencymarketresearch.com/application-infrastructure-middleware-market.html,0.854993236,Analyze decision factors,Solution trend and market analysis
+https://www.chakray.com/decision-criteria-to-select-an-integration-middleware/,0.344328957,Analyze decision factors,Elaborate and evaluate a solution
+https://www.cio.com/article/2390814/big-data-leading-to-new-breed-of-service-provider.html,0.594326482,Analyze decision factors,Solution trend and market analysis
+https://www.computerweekly.com/news/4500244917/Gartner-Enterprises-opt-for-Open-source-and-cloud-middleware-alternatives,0.64316221,Analyze decision factors,Solution trend and market analysis
+https://www.geospatialworld.net/article/real-time-data-collection-game-changer/,0.639888106,Analyze decision factors,Elaborate and evaluate a solution
+https://www.predictiveanalyticstoday.com/data-ingestion-tools/,0.640850901,Analyze decision factors,List related solutions
+https://www.exceltip.com/stock-performance/stock-market-dashboard-by-pedroufksi.html,0.735942307,Analyze decision factors,Elaborate and evaluate a solution
+https://www.mulesoft.com/resources/esb/integration-middleware-technology,0.61763574,Analyze decision factors,Elaborate and evaluate a solution
+https://sqlstream.com/big-data-in-telecoms-means-better-service/,0.764108674,Analyze decision factors,Solution trend and market analysis
+https://topflightapps.com/ideas/how-to-build-a-chatbot/,0.625513797,Analyze decision factors,Solution trend and market analysis
+https://www.leanix.net/en/blog/internet-of-things-middleware,0.656726442,Analyze decision factors,Elaborate and evaluate a solution
+https://www.cxnetwork.com/cx-technology/articles/how-asynchronous-messaging-is-giving-power-back-to-the-customer,0.539103104,Analyze decision factors,Elaborate and evaluate a solution
+https://www.dataversity.net/big-data-integration-101-the-what-why-and-how/,0.379146514,Analyze decision factors,How-to design
+https://www.prnewswire.com/news-releases/global-open-source-streaming-microservices-and-middleware-messaging-market-2019-2025-5g-processes-api-components-to-support-technology-innovation-and-change-300883993.html,0.578973203,Analyze decision factors,Solution trend and market analysis
+https://blogs.opentext.com/b2b-integration-solution/,0.811050818,Analyze decision factors,Elaborate and evaluate a solution
+https://enterprisebotmanager.com/a-breakdown-of-chatbot-architecture-and-how-it-works/,0.416880134,Analyze decision factors,Elaborate and evaluate a solution
+https://blog.styla.com/en/ecommerce-microservices-architecture-vs-monolithic-ecommerce-platforms,0.5523493,Analyze decision factors,Compare solutions
+https://medium.com/@Progressly/the-4-key-advantages-of-digital-data-collection-c839a89f168d,0.735719279,Analyze decision factors,Elaborate and evaluate a solution
+https://www.webdesignerdepot.com/2020/09/real-time-stock-data-using-marketplaces-api/,0.523221869,Analyze decision factors,Elaborate and evaluate a solution
+https://www.techiexpert.com/15-best-data-analytics-tools-for-big-data/,0.491724661,Analyze decision factors,List related solutions
+https://www.prnewswire.com/news-releases/sl-announces-monitoring-as-a-service-for-dell-boomi-with-rtview-cloud-for-middleware-monitoring-300744113.html,0.806335916,Analyze decision factors,Elaborate and evaluate a solution
+https://solutionsreview.com/data-integration/etl-vs-elt-and-the-benefits-of-data-transformation-in-the-cloud/,0.455556435,Analyze decision factors,Compare solutions
+https://oxylabs.io/blog/stock-market-data-how-to-scrape-it,0.505587281,Analyze decision factors,Elaborate and evaluate a solution
+https://rtview.com/create-a-real-time-information-portal-in-wordpress/,0.717569923,Analyze decision factors,How to implement
+https://open-telekom-cloud.com/de/produkte-services/distributed-message-service,0.408855679,Analyze decision factors,Elaborate and evaluate a solution
+https://mindmajix.com/chatbot,0.465332758,Analyze decision factors,How-to design
+https://www.dnsstuff.com/free-log-management-tools,0.434522445,Analyze decision factors,List related solutions
+https://blog.treasuredata.com/blog/2013/08/20/amazon-recommends-fluentd-as-best-practice-for-data-collection-over-flume-and-scribe/,0.629956501,Analyze decision factors,Elaborate and evaluate a solution
+https://www.comparitech.com/net-admin/log-management-tools/,0.42063602,Analyze decision factors,List related solutions
+https://solutionsreview.com/data-integration/2020-crn-big-data-100-data-integration-companies-to-consider/,0.553246254,Analyze decision factors,List related solutions
+https://builtin.com/big-data/big-data-companies-roundup,0.845420051,Analyze decision factors,List related solutions
+https://www.datadriveninvestor.com/2019/02/25/6-alternatives-to-the-yahoo-finance-api/,0.686136979,Analyze decision factors,List related solutions
+https://cobusgreyling.medium.com/chatbots-when-to-use-nlp-and-when-to-use-nlu-8eba17c0a4bc,0.356820123,Analyze decision factors,Compare solutions
+https://www.trulia.com/blog/tech/designing-and-building-a-real-time-etl-system-with-apache-flume/,0.291965776,Analyze decision factors,How-to design
+https://hackernoon.com/scraping-yahoo-finance-data-using-python-ayu3zyl,0.801227746,Analyze decision factors,How to implement
+https://www.betterevaluation.org/en/evaluation-options/mobile_data_collection,0.642653946,Analyze decision factors,Elaborate and evaluate a solution
+https://www.apmdigest.com/proactive-middleware-monitoring-how-it-keeps-business-humming,0.42506626,Analyze decision factors,Elaborate and evaluate a solution
+https://cobusgreyling.medium.com/read-this-before-converting-your-chatbot-to-a-voicebot-447f8fc3a325,0.464564278,Analyze decision factors,Compare solutions
+https://www.infoworld.com/article/3307518/real-time-data-processing-with-data-streaming-new-tools-for-a-new-era.html,0.367110639,Analyze decision factors,Elaborate and evaluate a solution
+https://solutionsreview.com/data-integration/28-best-data-integration-software-tools/,0.442120947,Analyze decision factors,List related solutions
+https://www.dataversity.net/what-is-data-streaming-a-data-architects-guide/,0.460102408,Analyze decision factors,Elaborate and evaluate a solution
+https://builtin.com/big-data/big-data-platform,0.561285317,Analyze decision factors,List related solutions
+https://www.softwaretestinghelp.com/data-collection-tools/,0.594255948,Analyze decision factors,List related solutions
+https://www.softwaretestinghelp.com/big-data-companies/,0.537881544,Analyze decision factors,List related solutions
+https://corporatefinanceinstitute.com/resources/knowledge/other/how-to-scrape-stock-data-with-python/,0.591227778,Analyze decision factors,How-to design
+https://www.predictiveanalyticstoday.com/open-source-dashboard-software/,0.907431069,Analyze decision factors,List related solutions
+https://antaresnet.com/data_collection/,0.914404449,Analyze decision factors,Elaborate and evaluate a solution
+https://www.softwebsolutions.com/resources/powerapps-integration-with-SAP.html,0.872149188,Analyze decision factors,Elaborate and evaluate a solution
+https://sloboda-studio.com/blog/how-to-use-nlp-for-building-a-chatbot/,0.689045077,Analyze decision factors,How to implement
+https://artificialintelligence.oodles.io/blogs/machine-learning-with-apache-kafka/,0.619841611,Analyze decision factors,How-to design
+https://blog.miraclesoft.com/the-nine-components-that-make-up-a-conversational-chatbot/,0.519078645,Analyze decision factors,List related solutions
+https://www.n-ix.com/best-big-data-service-providers-worldwide/,0.748027123,Analyze decision factors,List related solutions
+https://www.predictiveanalyticstoday.com/top-free-extract-transform-load-etl-software/,0.568976121,Analyze decision factors,List related solutions
+https://www.predictiveanalyticstoday.com/top-business-intelligence-tools/,0.92498848,Analyze decision factors,Elaborate and evaluate a solution
+https://www.predictiveanalyticstoday.com/what-is-etl-software-features/,0.999431824,Analyze decision factors,Elaborate and evaluate a solution
+https://www.altexsoft.com/blog/real-time-analytics/,0.37800738,Analyze decision factors,List related solutions
+http://cascadebusnews.com/advantages-disadvantages-using-mass-messaging-business/,0.5625086,Analyze decision factors,Elaborate and evaluate a solution
+https://analyticsindiamag.com/top-7-data-streaming-tools-for-real-time-analytics/,0.352974121,Analyze decision factors,List related solutions
+https://bigdataanalyticsnews.com/3-useful-tools-big-data-log-analysis/,0.620424219,Analyze decision factors,List related solutions
+http://www.columbia.edu/~tmd2142/best-6-stock-market-apis-for-2020.html,0.808502937,Analyze decision factors,List related solutions
+https://dataintegrationinfo.com/data-integration-features/,0.469855337,Analyze decision factors,List related solutions
+https://discover.bot/bot-talk/behind-the-scenes-using-nlp-to-power-chatbot/,0.564842859,Analyze decision factors,Elaborate and evaluate a solution
+https://geekflare.com/best-stock-market-api/,0.469096773,Analyze decision factors,List related solutions
+https://alpaca.markets/blog/stock-market-data-api/,0.570878741,Analyze decision factors,Elaborate and evaluate a solution
+https://mydatascope.com/blog/en/benefits-of-using-digital-forms-for-data-collection/,0.749938439,Analyze decision factors,Elaborate and evaluate a solution
+https://www.leanix.net/en/blog/developing-microservices-with-java,0.341226401,Analyze decision factors,Elaborate and evaluate a solution
+https://www.mydbsync.com/blogs/eai-or-etl-when-you-should-choose-one-over-the-other/,0.424102527,Analyze decision factors,Compare solutions
+https://www.ultimate.ai/blog/ai-automation/how-nlp-text-based-chatbots-work,0.673284465,Analyze decision factors,Elaborate and evaluate a solution
+https://mobilemonkey.com/blog/how-to-create-a-chatbot/,0.543211919,Analyze decision factors,How to implement
+https://www.dynatrace.com/news/blog/performance-vs-scalability/,0.333949298,Analyze decision factors,Compare solutions
+https://streamsets.com/blog/straight-customers-benefits-modern-ingestion/,0.448222766,Analyze decision factors,Elaborate and evaluate a solution
+https://www.netapp.com/artificial-intelligence/big-data-analytics/what-is-big-data/,0.521604036,Analyze decision factors,Elaborate and evaluate a solution
+https://www.tidio.com/blog/how-to-create-a-chatbot-for-a-website/,0.489856314,Analyze decision factors,How to implement
+https://blogs.informatica.com/2019/07/09/6-awesome-benefits-you-gain-by-using-an-integration-hub/,0.76500916,Analyze decision factors,Elaborate and evaluate a solution
+https://blog.infermedica.com/three-challenges-youre-going-to-face-when-building-a-chatbot/,0.43281247,Analyze decision factors,Elaborate and evaluate a solution
+https://www.mulesoft.com/resources/esb/mule-vs-camel-comparison,0.399520207,Analyze decision factors,Compare solutions
+https://onlinemasters.ohio.edu/blog/big-data-analytics-tools/,0.582795879,Analyze decision factors,List related solutions
+https://www.tutorialspoint.com/apache_camel/apache_camel_message_queues.htm,0.394274285,Implement technologies and components design,
+https://www.w3schools.com/js/js_json_syntax.asp,0.919135287,Implement technologies and components design,
+https://www.baeldung.com/java-org-json,0.998550102,Implement technologies and components design,
+https://www.baeldung.com/okhttp-json-response,0.996322399,Implement technologies and components design,
+https://www.baeldung.com/java-json,0.997618663,Implement technologies and components design,
+https://www.baeldung.com/spring-kafka,0.576173442,Implement technologies and components design,
+https://www.baeldung.com/apache-camel-intro,0.713827872,Implement technologies and components design,
+https://www.tutorialspoint.com/convert-a-json-string-to-java-object-using-the-json-simple-library-in-java,0.594216839,Implement technologies and components design,
+https://www.baeldung.com/camel-integration-patterns,0.756466923,Implement technologies and components design,
+https://www.baeldung.com/java-json-binding-api,0.997558353,Implement technologies and components design,
+https://www.tutorialspoint.com/android/android_json_parser.htm,0.671288706,Implement technologies and components design,
+https://www.tutorialspoint.com/json/json_java_example.htm,0.701602606,Implement technologies and components design,
+https://www.w3schools.com/js/js_json_intro.asp,0.920422003,Implement technologies and components design,
+https://www.geeksforgeeks.org/parse-json-java/,0.743227942,Implement technologies and components design,
+https://www.baeldung.com/jee7-json,0.997854869,Implement technologies and components design,
+https://www.freecodecamp.org/news/simple-chatops-with-kafka-grafana-prometheus-and-slack-764ece59e707/,0.413930522,Implement technologies and components design,
+https://www.w3schools.com/js/js_json_parse.asp,0.920472617,Implement technologies and components design,
+https://www.baeldung.com/jackson-vs-gson,0.998237264,Implement technologies and components design,
+https://www.baeldung.com/jackson,0.992826862,Implement technologies and components design,
+https://www.baeldung.com/apache-camel-spring-boot,0.886340593,Implement technologies and components design,
+https://itsallbinary.com/jackson-vs-gson-vs-json-b-vs-json-p-vs-org-json-vs-jsonpath-java-json-libraries-features-comparison/,0.999602411,Implement technologies and components design,Compare solutions
+https://mkyong.com/java/json-simple-example-read-and-write-json/,0.874739465,Implement technologies and components design,How to implement
+https://objectcomputing.com/resources/publications/mnb/using-erlang-with-corba-and-dds,0.608074404,Implement technologies and components design,How to implement
+https://www.cdata.com/kb/tech/dynamicscrm-jdbc-apache-camel.rst,0.454985865,Implement technologies and components design,How to implement
+https://amihaiemil.com/2017/10/16/javaee8-jsoncollectors-oop-alternative.html,0.542974907,Implement technologies and components design,How to implement
+https://blog.trifork.com/2018/04/13/exposing-asynchronous-communication-through-a-synchronous-rest-api-with-spring-5/,0.353809568,Implement technologies and components design,How to implement
+https://xyu.io/2015/07/13/building-a-faster-etl-pipeline-with-flume-kafka-and-hive/,0.412975626,Implement technologies and components design,How to implement
+https://blog.novoj.net/posts/2012-02-05-json-java-parsers-generators-microbenchmark/,0.559629185,Implement technologies and components design,Compare solutions
+https://medium.com/future-vision/the-principles-of-rest-6b00deac91b3,0.287375684,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.sitepoint.com/php-style-json-parsing-in-java-with-jsoniter/,0.567112826,Implement technologies and components design,How to implement
+https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud,0.711531516,Implement technologies and components design,How to implement
+https://www.kelltontech.com/kellton-tech-blog/how-integrate-rabbitmq-webmethods,0.428131448,Implement technologies and components design,How to implement
+https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-amqp-example/,0.74676928,Implement technologies and components design,How to implement
+https://yalantis.com/blog/speed-up-json-encoding-decoding/,0.431999482,Implement technologies and components design,Compare solutions
+https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme,0.343308665,Implement technologies and components design,List related solutions
+https://dzone.com/articles/asynchronous-java-se-web,0.84814199,Implement technologies and components design,How to implement
+http://tutorials.jenkov.com/java-json/gson-jsonparser.html,0.986127228,Implement technologies and components design,How to implement
+https://www.journaldev.com/2324/jackson-json-java-parser-api-example-tutorial,0.943376669,Implement technologies and components design,How to implement
+https://michelkraemer.com/actson-reactive-json-parser/,0.594268962,Implement technologies and components design,Elaborate and evaluate a solution
+https://crunchify.com/java-how-to-parse-jsonobject-and-jsonarrays/,0.704991604,Implement technologies and components design,How to implement
+https://medium.com/fabcoding/laravel-redirect-users-according-to-roles-and-protect-routes-bde324fe1823,0.966325228,Implement technologies and components design,How to implement
+https://publicwork.wordpress.com/2018/06/27/kafka-vs-rabbitmq-vs-enduro-x-vs-activemq-on-go-benchmark-of-the-2018/,0.459224096,Implement technologies and components design,Compare solutions
+https://www.morling.dev/blog/plugin-architectures-with-layrry-and-the-java-module-system/,0.489613038,Implement technologies and components design,How to implement
+https://examples.javacodegeeks.com/java-json-parser-example/,0.861587052,Implement technologies and components design,Compare solutions
+https://www.h2kinfosys.com/blog/apache-flume-tutorial/,0.420873422,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.programmersought.com/article/8810377980/,0.857235595,Implement technologies and components design,Compare solutions
+http://www.srikanthtechnologies.com/blog/java/javaee7_jsonapi.aspx,0.94908745,Implement technologies and components design,How to implement
+https://www.tutorialfor.com/blog-268914.htm,0.925060487,Implement technologies and components design,Compare solutions
+https://onegoodexample.wordpress.com/2016/07/10/apache-camel-throughput-or-performance-improvement-while-writing-into-files/,0.792154578,Implement technologies and components design,Elaborate and evaluate a solution
+https://medium.com/teamzerolabs/node-js-monitoring-with-prometheus-grafana-3056362ccb80,0.406189304,Implement technologies and components design,
+https://examples.javacodegeeks.com/core-java/xml/bind/jaxb-json-example/,0.847415674,Implement technologies and components design,How to implement
+https://devqa.io/how-to-parse-json-in-java/,0.90157,Implement technologies and components design,How to implement
+https://devqa.io/parse-json-response-rest-assured/,0.844241315,Implement technologies and components design,How to implement
+https://developer.okta.com/blog/2019/11/19/java-kafka,0.587162925,Implement technologies and components design,How to implement
+https://developer.okta.com/blog/2020/07/27/spring-boot-using-java-modules,0.838874998,Implement technologies and components design,How to implement
+https://spring.io/blog/2015/07/14/microservices-with-spring,0.560662182,Implement technologies and components design,How to implement
+https://dzone.com/articles/apache-camel-integration,0.595094031,Implement technologies and components design,How to implement
+https://hub.packtpub.com/creating-a-simple-modular-application-in-java-11-tutorial/,0.667127701,Implement technologies and components design,How to implement
+https://www.techiediaries.com/java/java-11-httpclient-gson-send-http-get-parse-json-example/,0.956988749,Implement technologies and components design,How to implement
+https://javarevisited.blogspot.com/2016/09/top-5-json-library-in-java-JEE.html,0.46697045,Implement technologies and components design,List related solutions
+https://www.mirkosertic.de/blog/2013/05/comparison-of-jaxb-xml-and-json-serialization-performance/,0.858261945,Implement technologies and components design,Compare solutions
+http://rick-hightower.blogspot.com/2013/11/benchmark-for-json-parsing-boon-scores.html,0.851902744,Implement technologies and components design,Compare solutions
+https://rieckpil.de/whatis-json-processing-json-p/,0.998685983,Implement technologies and components design,How to implement
+https://howtodoinjava.com/jaxb/convert-object-to-json-moxy/,0.995499761,Implement technologies and components design,How to implement
+https://www.javainuse.com/camel/camel_rabbit,0.71677134,Implement technologies and components design,How to implement
+https://tutorial-academy.com/json-parser-antlr4-eclipse/,0.943050497,Implement technologies and components design,How to implement
+http://blog.gulfsoft.com/2018/07/processing-json-in-automation-scripts.html,0.568373637,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.beyondtrust.com/docs/remote-support/how-to/integrations/real-time-dashboard/configure-plugin.htm,0.345740524,Implement technologies and components design,How to implement
+https://medium.com/a-journey-with-go/go-is-the-encoding-json-package-really-slow-62b64d54b148,0.365337807,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.eclipse.org/community/eclipse_newsletter/2018/november/jsonjakartaee.php,0.902575256,Implement technologies and components design,How to implement
+https://www.thepolyglotdeveloper.com/2015/03/parse-json-file-java/,0.996442683,Implement technologies and components design,How to implement
+https://aws.amazon.com/blogs/aws/all-your-data-fluentd/,0.326105216,Implement technologies and components design,Elaborate and evaluate a solution
+https://auth0.com/blog/beating-json-performance-with-protobuf/,0.527451479,Implement technologies and components design,Compare solutions
+https://www.javarticles.com/2015/06/apache-camel-transforming-using-simple-expression.html,0.998153822,Implement technologies and components design,How to implement
+https://tomd.xyz/kubernetes-event-driven-keda/,0.460120889,Implement technologies and components design,How to implement
+https://www.javatpoint.com/java-json-example,0.601084855,Implement technologies and components design,How to implement
+https://javarevisited.blogspot.com/2015/03/parsing-large-json-files-using-jackson.html,0.670489149,Implement technologies and components design,How-to design
+https://dzone.com/refcardz/enterprise-integration,0.510838973,Implement technologies and components design,List related solutions
+https://dzone.com/articles/all-you-need-to-know-about-asyncronous-messaging-u,0.33432909,Implement technologies and components design,Elaborate and evaluate a solution
+https://dev.to/djoleb/apache-camel-3-using-rabbitmq-2250,0.647249244,Implement technologies and components design,How to implement
+https://dzone.com/articles/apache-camel-deployment-modes,0.794500409,Implement technologies and components design,Elaborate and evaluate a solution
+https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock,0.78056474,Implement technologies and components design,How-to design
+https://medium.com/@rameez.s.shaikh/build-a-chat-application-using-spring-boot-websocket-rabbitmq-2b82c142f85a,0.799983483,Implement technologies and components design,How-to design
+https://dzone.com/articles/develop-a-java-app-with-kafka,0.533743806,Implement technologies and components design,How-to design
+https://dzone.com/articles/migrating-jms-amqp-rabbitmq,0.684332433,Implement technologies and components design,Compare solutions
+https://dzone.com/articles/open-source-integration-apache,0.53939984,Implement technologies and components design,How-to design
+https://programmer.help/blogs/performance-comparison-of-several-common-json-libraries-in-java.html,0.886685356,Implement technologies and components design,Compare solutions
+https://dev.to/subhransu/realtime-chat-app-using-kafka-springboot-reactjs-and-websockets-lc,0.574380545,Implement technologies and components design,How-to design
+https://jaxenter.com/tutorial-integrating-with-apache-camel-106759.html,0.336473216,Implement technologies and components design,How to implement
+https://medium.com/@ideas.into.software/using-camel-and-rabbitmq-in-an-osgi-r7-application-including-custom-message-types-b314a142fc9c,0.5830092,Implement technologies and components design,How-to design
+https://hub.packtpub.com/what-apache-camel/,0.257448687,Implement technologies and components design,Elaborate and evaluate a solution
+https://dzone.com/articles/jsontuples-json-parser-and-comparator-in-java,0.731673051,Implement technologies and components design,Elaborate and evaluate a solution
+https://blog.eduonix.com/web-programming-tutorials/learn-write-program-json-java/,0.902344165,Implement technologies and components design,How to implement
+https://www.tomitribe.com/blog/5-minutes-or-less-json-b-with-apache-johnzon/,0.826758565,Implement technologies and components design,How-to design
+https://eclipsesource.com/blogs/2013/04/18/minimal-json-parser-for-java/,0.687062993,Implement technologies and components design,How-to design
+https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html,0.524528639,Implement technologies and components design,Compare solutions
+https://blog.codecentric.de/en/2018/08/easy-integration-between-services-with-apache-camel/,0.504223924,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.openlogic.com/blog/introduction-enterprise-integration-patterns-and-apache-camel,0.46201176,Implement technologies and components design,Elaborate and evaluate a solution
+https://phoenixnap.com/kb/install-and-configure-rabbitmq-on-kubernetes,0.333519744,Implement technologies and components design,How-to design
+https://www.scrapehero.com/scrape-nasdaq-stock-market-data/,0.602732425,Implement technologies and components design,How-to design
+https://www.royalcyber.com/blog/middleware/integrating-dell-boomi-with-rabbitmq/,0.380691329,Implement technologies and components design,How to implement
+https://www.smashingmagazine.com/2019/01/introducing-component-based-api/,0.424833563,Implement technologies and components design,How-to design
+https://explainjava.com/parse-json-java/,0.969750459,Implement technologies and components design,How to implement
+http://blog.florian-hopf.de/2019/07/apache-camel.html,0.478190223,Implement technologies and components design,How to implement
+https://www.javaguides.net/2019/07/best-json-library-for-java.html,0.562711207,Implement technologies and components design,List related solutions
+https://arthur.gonigberg.com/2012/02/11/camel-rabbitmq/,0.692730038,Implement technologies and components design,How to implement
+https://dghanwat.github.io/posts/2018/12/chatbot-with-nodejs-express-rabbitmq-part-1/,0.637898782,Implement technologies and components design,How-to design
+https://mkyong.com/java/fastjson-convert-java-objects-to-from-json/,0.996517255,Implement technologies and components design,How to implement
+https://lemire.me/blog/2018/05/03/how-fast-can-you-parse-json/,0.490745663,Implement technologies and components design,Elaborate and evaluate a solution
+https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html,0.710317424,Implement technologies and components design,How-to design
+https://crunchify.com/how-to-read-json-object-from-file-in-java/,0.650418883,Implement technologies and components design,How to implement
+https://tuhrig.de/jaxb-vs-gson-and-jackson/,0.413719159,Implement technologies and components design,Compare solutions
+https://www.java-success.com/jms-versus-amqp-enterprise-integration-patterns-eip-spring-integration-versus-apache-camel/,0.279299521,Implement technologies and components design,Compare solutions
+https://www.journaldev.com/2315/java-json-example,0.884268875,Implement technologies and components design,How to implement
+http://pragmaticnotes.com/tag/kafka-messaging-systems-comparison/,0.347212705,Implement technologies and components design,Compare solutions
+https://blog.stefan-koch.name/2020/06/13/monitoring-stock-prices-with-grafana-and-prometheus,0.488137315,Implement technologies and components design,How-to design
+https://automationrhapsody.com/unmarshalconvert-json-data-jaxbelement-object/,0.772367652,Implement technologies and components design,How to implement
+https://alexanderdevelopment.net/post/2015/01/20/using-rabbitmq-as-a-message-broker-in-dynamics-crm-data-interfaces-part-3/,0.664916008,Implement technologies and components design,How-to design
+https://stackabuse.com/reading-and-writing-json-in-java/,0.853846607,Implement technologies and components design,How to implement
+https://www.javacodegeeks.com/2011/09/real-modular-web-applications-why-there.html,0.340195789,Implement technologies and components design,Elaborate and evaluate a solution
+https://pusher.com/tutorials/realtime-analytics-dashboard-express,0.567199732,Implement technologies and components design,How-to design
+https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/,0.64749439,Implement technologies and components design,How-to design
+https://blog.logrocket.com/forget-express-js-opt-for-these-alternatives-instead/,0.507392087,Implement technologies and components design,Compare solutions
+https://openliberty.io/guides/rest-client-java.html,0.999658062,Implement technologies and components design,How to implement
+https://openliberty.io/blog/2018/06/29/full_java_ee_8_liberty_18002.html,0.618047833,Implement technologies and components design,Elaborate and evaluate a solution
+https://camel.apache.org/blog/2019/12/Camel3-Whatsnew/,0.504555041,Implement technologies and components design,List related solutions
+https://michaelhoweely.com/2019/08/27/how-to-make-a-stock-market-dashboard-in-google-data-studio/,0.529220807,Achieve quality attributes using components design,
+None: Apache Camel and the price of abstractions_full.txt,0.525471714,Achieve quality attributes using components design,
+https://medium.com/?source=post_page-----e0e5013fd58a--------------------------------,0.570579307,Achieve quality attributes using components design,
+https://blogs.sap.com/2016/01/12/adapters-for-sap-hci-integration-with-ms-dynamics-crm-and-rabbitmq/,0.558188368,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://jack-vanlightly.com/blog/2017/12/5/rabbitmq-vs-kafka-part-2-rabbitmq-messaging-patterns-and-topologies,0.981057401,Achieve quality attributes using components design,Compare solutions
+https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html,0.729872167,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/linagora-engineering/how-to-choose-a-message-queue-247dde46e66c,0.358085902,Achieve quality attributes using components design,How-to design
+https://myfmw.wordpress.com/2017/05/14/bam-dashboards/,0.432953824,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.cloudamqp.com/blog/2018-12-10-a-walk-through-of-the-design-and-architecture-of-rabbitmq.html,0.91711329,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://bravenewgeek.com/tag/rabbitmq/,0.769515198,Achieve quality attributes using components design,Compare solutions
+https://www.confluent.io/blog/building-a-telegram-bot-powered-by-kafka-and-ksqldb/,0.449577658,Achieve quality attributes using components design,How-to design
+https://wso2.com/library/articles/2019/12/asynchronous-message-based-communication/,0.264530537,Achieve quality attributes using components design,How-to design
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying,0.592440228,Achieve quality attributes using components design,How-to design
+https://www.programmersought.com/article/10994988932/,0.436809114,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://spring.io/blog/2011/04/01/routing-topologies-for-performance-and-scalability-with-rabbitmq/,0.819051867,Achieve quality attributes using components design,How-to design
+https://www.datadoghq.com/blog/rabbitmq-monitoring/,0.86385055,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/webstep/apache-kafka-in-a-nutshell-66fffd264de3,0.672324296,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://dev.to/dianamaltseva8/rabbitmq-for-building-mobile-chats--messengers-sharing-experience-358,0.476996231,Achieve quality attributes using components design,How-to design
+https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html,0.797583623,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://aiven.io/blog/how-are-your-microservices-talking,0.428249509,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.mssqltips.com/sqlservertip/6233/collecting-time-series-data-for-stock-market-with-sql-server/,0.433358066,Achieve quality attributes using components design,How to implement
+https://dzone.com/articles/benchmarking-message-queue-latency,0.757253105,Achieve quality attributes using components design,Compare solutions
+https://neiljbrown.com/2017/08/26/evaluating-message-brokers-amazon-sqs/,0.686541965,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://blog.scottlogic.com/2018/04/17/comparing-big-data-messaging.html,0.630233357,Achieve quality attributes using components design,Compare solutions
+https://phauer.com/2015/restful-api-design-best-practices/,0.356002322,Achieve quality attributes using components design,How to implement
+https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b,0.967251911,Achieve quality attributes using components design,How-to design
+https://developers.refinitiv.com/en/article-catalog/article/10-important-things-you-need-know-you-write-elektron-real-time-application,0.688515441,Achieve quality attributes using components design,List related solutions
+https://bravenewgeek.com/benchmarking-message-queue-latency/,0.887586127,Achieve quality attributes using components design,Compare solutions
+https://www.thedigitaltransformationpeople.com/channels/enabling-technologies/real-time-stream-processing-in-big-data-platform/,0.443567359,Achieve quality attributes using components design,How-to design
+https://blog.cloudera.com/flafka-apache-flume-meets-apache-kafka-for-event-processing/,0.504699018,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.redhat.com/en/blog/insights-about-tuning-apache-camel-application-deployed-spring-boot,0.631054712,Achieve quality attributes using components design,How to implement
+https://www.alibabacloud.com/blog/how-to-synchronize-data-from-message-queue-for-apache-kafka-to-maxcompute_596166,0.622525178,Achieve quality attributes using components design,How to implement
+https://techbeacon.com/app-dev-testing/what-apache-kafka-why-it-so-popular-should-you-use-it,0.284607065,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://danidee10.github.io/2018/01/13/realtime-django-5.html,0.650673748,Achieve quality attributes using components design,How to implement
+https://medium.com/@anirbanroydas/rabbitchat-chat-server-using-tornado-sockjs-rabbitmq-also-talking-about-tcp-sockets-914a79bbcd2f,0.665065261,Achieve quality attributes using components design,How-to design
+https://www.linkedin.com/pulse/building-your-first-chatbot-python-valentina-alto,0.396761715,Achieve quality attributes using components design,How to implement
+https://www.zupzup.org/k8s-rabbitmq-cluster/index.html,0.500810019,Achieve quality attributes using components design,How to implement
+https://www.programmersought.com/article/2060222759/,0.550695534,Achieve quality attributes using components design,Compare solutions
+https://blog.codecentric.de/en/2018/03/etl-kafka/,0.592779327,Achieve quality attributes using components design,How-to design
+https://medium.com/swlh/how-to-create-a-dashboard-to-dominate-the-stock-market-using-python-and-dash-c35a12108c93,0.439100693,Achieve quality attributes using components design,
+https://hackernoon.com/introduction-to-message-brokers-part-1-apache-kafka-vs-rabbitmq-8fd67bf68566,0.30619577,Achieve quality attributes using components design,Compare solutions
+https://lwn.net/Articles/707510/,0.712553356,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared,0.463852239,Achieve quality attributes using components design,Compare solutions
+https://blog.interfaceware.com/enterprise-integration-considerations-high-performance/,0.615886407,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.cloudkarafka.com/blog/2020-02-02-which-service-rabbitmq-vs-apache-kafka.html,0.714863574,Achieve quality attributes using components design,Compare solutions
+https://medium.com/@mena.meseha/why-you-should-choose-rabbitmq-rabbitmq-overview-various-message-queue-comparison-f17b3b301dd9,0.973649569,Achieve quality attributes using components design,Compare solutions
+https://www.linkedin.com/pulse/kafka-vs-rabbitmq-how-choose-open-source-message-maria-hatfield-phd,0.301867206,Achieve quality attributes using components design,Compare solutions
+https://medium.com/@dannydamsky99/heres-why-you-probably-shouldn-t-be-using-the-gson-library-in-2018-4bed5698b78b,0.456056584,Achieve quality attributes using components design,Elaborate and evaluate a solution
+http://rick-hightower.blogspot.com/2013/12/worlds-fastest-json-parser.html,0.539913073,Achieve quality attributes using components design,Compare solutions
+https://sematext.com/blog/logstash-alternatives/#toc-logstash-vs-fluentd-21,0.520825981,Achieve quality attributes using components design,Compare solutions
+https://www.syslog-ng.com/community/b/blog/posts/kafka-and-syslog-ng,0.33492827,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://blogs.sap.com/2019/11/20/cloud-integration-connecting-to-external-messaging-systems-using-the-amqp-adapter/,0.898557358,Achieve quality attributes using components design,How to implement
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html,0.998792161,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/adobetech/evaluating-streaming-frameworks-for-large-scale-event-streaming-7209938373c8,0.478658834,Achieve quality attributes using components design,Compare solutions
+https://www.techgeeknext.com/apache/kafka-interview-questions,0.414197874,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/@shivsoni377/everything-you-need-to-know-about-apache-kafka-454f5ed9265f,0.579693391,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/@ghogare.dhananjay/rabbit-mq-vs-active-mq-cbfec9ec359f,0.656345392,Achieve quality attributes using components design,Compare solutions
+https://dzone.com/articles/exploring-message-brokers,0.513894729,Achieve quality attributes using components design,Compare solutions
+https://zapier.com/learn/apis/chapter-6-api-design/,0.433682367,Achieve quality attributes using components design,How-to design
+https://www.cloudamqp.com/blog/2018-01-08-part2-rabbitmq-best-practice-for-high-performance.html,0.959073974,Achieve quality attributes using components design,List related solutions
+https://codecondo.com/8-tools-for-log-monitoring-and-processing-big-data/,0.304799611,Achieve quality attributes using components design,List related solutions
+https://www.cloudamqp.com/blog/2019-03-28-rabbitmq-quorum-queues.html,0.928442698,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://data-flair.training/forums/topic/difference-between-flume-and-kafka/,0.419839493,Achieve quality attributes using components design,Compare solutions
+https://www.cloudamqp.com/blog/2017-12-29-part1-rabbitmq-best-practice.html,0.999273007,Achieve quality attributes using components design,How-to design
+https://www.cloudamqp.com/blog/2018-12-10-real-world-rabbitmq-deployments.html,0.834787149,Achieve quality attributes using components design,List related solutions
+https://dzone.com/articles/performance-tuning-ideas-for-apache-camel,0.430807852,Achieve quality attributes using components design,How-to design
+https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines,0.980094053,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb,0.396388018,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.linkedin.com/pulse/comprehensive-analysis-apache-kafka-rassul-fazelat,0.572407471,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/stream-processing/what-is-stream-processing-1eadfca11b97,0.442927921,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://medium.com/hackernoon/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1,0.729466757,Achieve quality attributes using components design,Compare solutions
+https://medium.com/@patrick.collins_58673/stock-api-landscape-5c6e054ee631,0.404970552,Achieve quality attributes using components design,Compare solutions
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/,0.583442831,Achieve quality attributes using components design,List related solutions
+https://hackernoon.com/connecting-rabbitmq-with-node-js-05953yh3,0.348386931,Achieve quality attributes using components design,How to implement
+https://www.linkedin.com/pulse/flume-kafka-real-time-event-processing-lan-jiang,0.413498848,Achieve quality attributes using components design,Compare solutions
+https://arunrajeevan.medium.com/fundamentals-of-rest-api-design-d9c425c1b0f6,0.64647315,Achieve quality attributes using components design,How-to design
+https://tech.ticketmaster.com/2014/12/01/getting-over-the-performance-hump-with-apache-camel/,0.59865543,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.infoq.com/articles/AMQP-RabbitMQ/,0.414070521,Achieve quality attributes using components design,How to implement
+https://medium.com/@alinvelican_49750/go-vs-java-json-serialization-and-deserialization-feeb18803525,0.501214977,Achieve quality attributes using components design,Compare solutions
+https://dev.to/inspector/laravel-real-time-monitoring-using-inspector-part-1-get-started-2bb3,0.323674811,Achieve quality attributes using components design,How-to design
+https://medium.com/@philipfeng/modern-open-source-messaging-apache-kafka-rabbitmq-nats-pulsar-and-nsq-ca3bf7422db5,0.546415007,Achieve quality attributes using components design,Compare solutions
+https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407,0.384643059,Achieve quality attributes using components design,Compare solutions
+https://aiven.io/blog/benchmarking-kafka-write-throughput-performance-2019-update,0.670771011,Achieve quality attributes using components design,Compare solutions
+https://dattell.com/data-architecture-blog/kafka-vs-rabbitmq-how-to-choose-an-open-source-message-broker/,0.623522491,Achieve quality attributes using components design,Compare solutions
+https://www.fasthosts.co.uk/blog/rabbitmq-and-message-brokers/,0.39198888,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://redbyte.eu/en/blog/real-time-metrics-using-prometheus-and-grafana/,0.642073915,Achieve quality attributes using components design,How-to design
+https://www.sirup.com/en/rabbitmq-and-drupal-in-action,0.598818447,Achieve quality attributes using components design,How-to design
+https://dave.cheney.net/high-performance-json.html,0.540650012,Achieve quality attributes using components design,How-to design
+http://www.davsclaus.com/2017/10/working-with-large-messages-using.html,0.533550448,Achieve quality attributes using components design,How to implement
+https://andrejgajdos.com/first-steps-with-messaging-in-java/,0.386555194,Achieve quality attributes using components design,How to implement
+https://romanmarkunas.com/messaging/2018/09/22/0003-messaging-messaging-system-latencies-1-kafka/,0.97797829,Achieve quality attributes using components design,Elaborate and evaluate a solution
+http://www.ofbizian.com/2016/01/performance-tuning-ideas-for-apache.html,0.562352728,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://linuxhint.com/rabbitmq-vs-apache-kafka/,0.754252324,Achieve quality attributes using components design,Compare solutions
+https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies,0.893813554,Achieve quality attributes using components design,Compare solutions
+https://danielpocock.com/real-time-streaming-market-data-with-free-open-source-software/,0.3913842,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://thedulinreport.com/2015/09/05/top-ten-differences-between-activemq-and-amazon-sqs/,0.637956408,Achieve quality attributes using components design,Compare solutions
+https://alexanderdevelopment.net/post/2015/01/12/using-rabbitmq-as-a-message-broker-in-dynamics-crm-data-interfaces-part-1/,0.484600923,Achieve quality attributes using components design,How-to design
+https://lemire.me/blog/2020/03/31/we-released-simdjson-0-3-the-fastest-json-parser-in-the-world-is-even-better/,0.626625657,Achieve quality attributes using components design,Elaborate and evaluate a solution
+http://ravindranaik.com/which-messaging-queue-is-best/,0.453940535,Achieve quality attributes using components design,Compare solutions
+https://bravenewgeek.com/tag/activemq/,0.565797063,Achieve quality attributes using components design,Compare solutions
+https://geekflare.com/open-source-centralized-logging/,0.448577909,Achieve quality attributes using components design,List related solutions
+https://www.overops.com/blog/the-ultimate-json-library-json-simple-vs-gson-vs-jackson-vs-json/,0.418893397,Achieve quality attributes using components design,Compare solutions
+https://blog.logrocket.com/methods-for-microservice-communication/,0.454054857,Achieve quality attributes using components design,How to implement
+https://www.precisely.com/blog/big-data/4-benefits-of-using-apache-kafka-in-lieu-of-amqp-or-jms,0.44708875,Achieve quality attributes using components design,Compare solutions
+https://blogs.apache.org/flume/entry/flume_ng_architecture,0.49367892,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.torocloud.com/blog/jms-vs-kafka,0.411964348,Achieve quality attributes using components design,Compare solutions
+https://moz.com/blog/chat-bot,0.724182156,Achieve quality attributes using components design,How to implement
+https://www.atomikos.com/Blog/ReviewUnderstandingMessageBrokersKafkaVersusActiveMQ,0.641493333,Achieve quality attributes using components design,Compare solutions
+https://blog.trigent.com/synchronous-vs-asynchronous-request-handling/,0.520711276,Achieve quality attributes using components design,Compare solutions
+https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/,0.692912688,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://blog.sap-press.com/how-to-use-the-apache-camel-framework-for-message-processing-in-sap,0.521111669,Achieve quality attributes using components design,How-to design
+https://flow.ai/blog/kb-different-kinds-of-chatbots,0.558260735,Achieve quality attributes using components design,Compare solutions
+https://www.confluent.io/blog/kafka-fastest-messaging-system/,0.697880222,Achieve quality attributes using components design,Compare solutions
+https://www.cloudamqp.com/blog/2016-09-13-asynchronous-communication-with-rabbitmq.html,0.851638882,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://epsagon.com/development/kafka-rabbitmq-or-kinesis-solution-comparison/,0.406189261,Achieve quality attributes using components design,Compare solutions
+https://www.cloudamqp.com/blog/2019-11-13-the-relationship-between-connections-and-channels-in-rabbitmq.html,0.929253125,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html,0.717751224,Achieve quality attributes using components design,Compare solutions
+https://blog.interfaceware.com/hl7-message-throughput-is-a-critical-metric-for-interface-engines/,0.591787499,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.ionos.com/digitalguide/websites/web-development/rabbitmq/,0.478070789,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://noise.getoto.net/tag/message-queues/,0.488394504,Achieve quality attributes using components design,
+https://jaxenter.com/streamline-software-integration-an-apache-camel-tutorial-140621.html,0.329761552,Achieve quality attributes using components design,
+https://camel.apache.org/community/articles/,0.39924013,Achieve quality attributes using components design,
+https://www.kai-waehner.de/blog/2020/01/01/apache-kafka-edge-computing-industrial-iot-retailing-logistics/,0.963288908,Achieve quality attributes using components design,How-to design
+https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/,0.955551648,Achieve quality attributes using components design,How-to design
+https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/,0.631936856,Achieve quality attributes using components design,Compare solutions
+https://www.kai-waehner.de/blog/2020/03/12/can-apache-kafka-replace-database-acid-storage-transactions-sql-nosql-data-lake/,0.874998731,Achieve quality attributes using components design,How-to design
+https://www.kai-waehner.de/blog/2012/01/10/spoilt-for-choice-which-integration-framework-to-use-spring-integration-mule-esb-or-apache-camel/,0.63691444,Achieve quality attributes using components design,Compare solutions
+https://www.pulumi.com/blog/rabbitmq-azure/,0.289399117,Achieve quality attributes using components design,How to implement
+https://www.kai-waehner.de/blog/2011/06/02/when-to-use-apache-camel/,0.776469326,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://dzone.com/articles/processing-large-messages-with-apache-kafka,0.726055198,Achieve quality attributes using components design,How-to design
+https://www.toptal.com/apache/apache-camel-tutorial,0.339814075,Achieve quality attributes using components design,How-to design
+https://www.kai-waehner.de/blog/2019/11/28/apache-kafka-industrial-iot-iiot-build-an-open-scalable-reliable-digital-twin/,0.899514548,Achieve quality attributes using components design,How-to design
+https://www.kai-waehner.de/blog/2019/03/07/apache-kafka-middleware-mq-etl-esb-comparison/,0.884246081,Achieve quality attributes using components design,Compare solutions
+https://www.kai-waehner.de/blog/2015/10/25/comparison-of-stream-processing-frameworks-and-products/,0.836694905,Achieve quality attributes using components design,Compare solutions
+https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/,0.657069207,Achieve quality attributes using components design,Compare solutions
+https://www.kai-waehner.de/blog/2016/11/15/streaming-analytics-comparison-open-source-frameworks-products-cloud-services/,0.90736853,Achieve quality attributes using components design,Compare solutions
+https://aws.amazon.com/de/blogs/aws/amazon-mq-update-new-rabbitmq-message-broker-service/,0.222557571,Achieve quality attributes using components design,Elaborate and evaluate a solution
+https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/,0.469217489,Achieve quality attributes using components design,How-to design
